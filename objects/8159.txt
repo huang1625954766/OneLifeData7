@@ -1,5 +1,5 @@
 id=8159
-Ancient Stone Wall with Window and Garland
+Windowed Ancient Stone Wall with Garland
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -16,7 +16,6 @@ deathMarker=0
 homeMarker=0
 floor=0
 floorHugging=1
-wallLayer=1
 foodValue=0
 speedMult=1.000000
 heldOffset=0.000000,0.000000
