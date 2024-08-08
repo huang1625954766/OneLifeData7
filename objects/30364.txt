@@ -1,5 +1,5 @@
 id=30364
-Wooden Table# demo right
+Wooden Table# demo right +tapoutTrigger,-1,0
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,7 +30,7 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotStyle=1
 slotsLocked=0
-numSprites=4
+numSprites=3
 spriteID=3053
 pos=-9.000000,-4.000000
 rot=0.000000
@@ -49,20 +49,11 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
-spriteID=2434
-pos=-87.000000,-15.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=2434
-pos=-54.000000,59.000000
+spriteID=1506
+pos=-41.000000,-24.000000
 rot=0.000000
 hFlip=1
-color=1.000000,1.000000,1.000000
+color=0.732394,0.483380,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -74,4 +65,4 @@ frontFootIndex=-1
 numUses=0,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=73
+pixHeight=67
