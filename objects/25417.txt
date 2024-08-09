@@ -77,7 +77,7 @@ parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=738
-pos=-54.000000,-50.000000
+pos=-54.000000,-51.000000
 rot=0.000000
 hFlip=0
 color=0.850000,0.850000,0.850000
@@ -86,7 +86,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=491
-pos=-60.000000,-57.000000
+pos=-60.000000,-58.000000
 rot=0.000000
 hFlip=0
 color=0.850000,0.850000,0.850000
