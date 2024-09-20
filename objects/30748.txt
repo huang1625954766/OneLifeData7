@@ -1,5 +1,5 @@
 id=30748
-Deep Water# +noHighlight# seaweed Trout Fry
+Deep Water# +noHighlight groundOnly seaweed Trout Fry
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -17,14 +17,14 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=1.000000
+speedMult=0.400000
 heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=1423:0.191667,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
@@ -135,7 +135,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=10,0.500000
+numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=68
