@@ -39,11 +39,11 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=30165
-pos=-4.000000,-33.000000
-rot=-0.125000
+spriteID=30261
+pos=-2.000000,-29.000000
+rot=-0.050000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.746479,0.746479,0.746479
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

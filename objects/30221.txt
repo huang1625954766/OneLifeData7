@@ -83,7 +83,7 @@ color=0.690000,0.888400,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
+invisCont=1
 spriteID=2169
 pos=0.000000,10.000000
 rot=0.000000
@@ -92,7 +92,7 @@ color=0.690000,0.888400,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
+invisCont=1
 spriteID=2169
 pos=0.000000,10.000000
 rot=0.000000
@@ -101,7 +101,7 @@ color=0.690000,0.888400,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
+invisCont=1
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
