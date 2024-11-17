@@ -120,10 +120,10 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=836
-pos=90.000000,-70.000000
-rot=0.000000
-hFlip=0
+spriteID=30372
+pos=80.000000,0.000000
+rot=0.250000
+hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
