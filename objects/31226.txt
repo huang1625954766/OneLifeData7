@@ -1,5 +1,5 @@
 id=31226
-黄金钓鱼竿
+黄金钓鱼竿# 稀有 ZXC
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
