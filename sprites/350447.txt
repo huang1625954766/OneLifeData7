@@ -1,1 +1,0 @@
-LanternFrame#else 0 0 11

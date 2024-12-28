@@ -1,5 +1,5 @@
 id=31228
-垂钓中的黄金钓鱼竿
+垂钓中的黄铜钓鱼竿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,7 +1,7 @@
 id=31305
 分液漏斗
 containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+containSize=2.000000,vertSlotRot=0.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -18,12 +18,13 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
+containOffset=-19,5
 heldOffset=12.000000,38.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=1674:0.116667,-1:0.0,-1:0.0,-1:0.0
+sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000

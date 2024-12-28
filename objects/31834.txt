@@ -1,5 +1,5 @@
 id=31834
-三颈烧瓶和温度计与分馏漏斗��颈烧瓶和温度计
+三颈烧瓶和温度计与分馏漏斗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -18,7 +18,8 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=8.000000,41.000000
+containOffset=0,-21
+heldOffset=12.000000,41.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0

@@ -1,5 +1,5 @@
 id=31864
-石炉和电石粉��烧杯的焦炭干馏炉和去灰煤炭粉
+石炉和电石粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=7
+numSprites=8
 spriteID=100583
 pos=-1.000000,101.000000
 rot=0.000000
@@ -88,6 +88,15 @@ spriteID=100585
 pos=-45.000000,-25.000000
 rot=0.000000
 hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=544
+pos=44.000000,-36.000000
+rot=-0.750000
+hFlip=1
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1

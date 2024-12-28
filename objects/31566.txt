@@ -1,5 +1,5 @@
 id=31566
-有巨石卡住的风化矿床# 3级 有寒风 3.1
+有巨石卡住的风化矿床# 1级 有寒风 3.1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,9 +29,9 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=7
-spriteID=110852
-pos=1.000000,70.000000
+numSprites=8
+spriteID=30499
+pos=-22.000000,78.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -39,8 +39,17 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=30469
-pos=-4.000000,86.000000
+spriteID=30468
+pos=-50.000000,10.000000
+rot=0.500000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=30498
+pos=-9.000000,86.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -100,4 +109,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=148
+pixHeight=136

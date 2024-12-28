@@ -1,5 +1,5 @@
 id=32031
-一袋氧化铅# 2��袋氧化铅# 1
+一袋氧化铅# 2
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3
@@ -67,11 +67,11 @@ ageRange=-1.000000,-1.000000
 parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=529
-pos=0.000000,-6.000000
-rot=0.530000
+spriteID=1027
+pos=-3.000000,-9.000000
+rot=0.035000
 hFlip=0
-color=0.971831,0.821266,0.821266
+color=1.000000,0.888713,0.281690
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -85,8 +85,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1332
-pos=-14.000000,-22.000000
+spriteID=1338
+pos=-16.000000,-23.000000
 rot=0.020000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -94,7 +94,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1335
+spriteID=1331
 pos=-6.000000,-23.000000
 rot=0.020000
 hFlip=0
@@ -103,8 +103,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1345
-pos=3.000000,-24.000000
+spriteID=1327
+pos=4.000000,-24.000000
 rot=0.020000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -112,8 +112,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=1334
-pos=13.000000,-26.000000
+spriteID=1330
+pos=14.000000,-24.000000
 rot=0.020000
 hFlip=0
 color=1.000000,1.000000,1.000000

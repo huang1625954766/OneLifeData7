@@ -1,5 +1,5 @@
 id=31994
-化学实验台和铅碗��学实验台# 制取氟氢化钾
+化学实验台和铅碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=47
+numSprites=48
 spriteID=30445
 pos=98.000000,67.000000
 rot=0.000000
@@ -453,8 +453,17 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=30479
+pos=34.000000,49.000000
+rot=0.250000
+hFlip=0
+color=0.333000,0.333000,0.333000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spritesDrawnBehind=1,2,5
-spritesAdditiveBlend=3,4,14,22,24,26,27,31,32,33,35,37,38,39,40,42
+spritesAdditiveBlend=3,4,14,22,24,26,27,31,32,33,35,37,38,39,40,42,47
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1

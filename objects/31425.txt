@@ -1,5 +1,5 @@
 id=31425
-玻璃切割台与滴管# 没有煤油��璃切割台和滴管
+玻璃切割台与滴管# 没有煤油
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -138,22 +138,13 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=30438
-pos=40.000000,20.000000
-rot=0.250000
-hFlip=1
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
 spriteID=30364
 pos=1.000000,43.000000
 rot=-0.250000
 hFlip=0
 color=0.000000,0.144338,0.183000
 ageRange=-1.000000,-1.000000
-parent=16
+parent=15
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30364
@@ -198,7 +189,7 @@ rot=0.750000
 hFlip=0
 color=0.000000,0.144338,0.183000
 ageRange=-1.000000,-1.000000
-parent=20
+parent=19
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=3035
@@ -219,7 +210,16 @@ ageRange=-1.000000,-1.000000
 parent=2
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spritesAdditiveBlend=11,13,14,15,16,17,18
+spriteID=30494
+pos=70.000000,20.000000
+rot=0.250000
+hFlip=1
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spritesAdditiveBlend=11,12,13,14,15,16,17
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1

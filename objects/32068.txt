@@ -1,5 +1,5 @@
 id=32068
-UnGlazed Firing Bone China Pot
+未上釉的骨瓷花盆# 釉下彩
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -19,7 +19,7 @@ floorHugging=0
 foodValue=0
 speedMult=0.750000
 containOffset=0,-30
-heldOffset=31.000000,53.000000
+heldOffset=29.000000,53.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -62,7 +62,7 @@ spriteID=30208
 pos=-4.000000,-4.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.011902,0.211268,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -71,12 +71,12 @@ spriteID=30208
 pos=-4.000000,-4.000000
 rot=0.000000
 hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.018250,0.323944,0.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spritesAdditiveBlend=2,3
+spritesAdditiveBlend=2,4
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
