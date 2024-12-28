@@ -23,8 +23,8 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=0
+sounds=890:0.250000,890:0.250000,-1:0.0,-1:0.0
+creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
@@ -91,4 +91,4 @@ frontFootIndex=-1
 numUses=5,1.000000
 useVanishIndex=1,2,3,4,5
 useAppearIndex=-1
-pixHeight=4
+pixHeight=5

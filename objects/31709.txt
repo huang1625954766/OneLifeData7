@@ -1,5 +1,5 @@
 id=31709
-研钵和研杵与青金石��钵和研杵与红色颜料
+研钵和研杵与青金石
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -18,12 +18,13 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
+containOffset=2,-25
 heldOffset=10.000000,44.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
 useDistance=1
-sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+sounds=400:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000

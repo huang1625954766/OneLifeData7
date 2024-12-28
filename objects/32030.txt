@@ -66,11 +66,11 @@ ageRange=-1.000000,-1.000000
 parent=5
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=529
-pos=0.000000,-11.000000
-rot=0.545000
+spriteID=1027
+pos=1.000000,-14.000000
+rot=0.000000
 hFlip=0
-color=0.971831,0.821266,0.821266
+color=1.000000,0.888713,0.281690
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

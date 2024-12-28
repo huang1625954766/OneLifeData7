@@ -1,1 +1,0 @@
-ScooterShoe#new 0 0 -1

@@ -1,5 +1,5 @@
 id=31819
-化学实验台和萤石粉��学实验台和朱砂
+化学实验台和萤石粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -445,17 +445,8 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1065
-pos=31.000000,55.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=1065
-pos=35.000000,56.000000
-rot=0.000000
+pos=29.000000,52.000000
+rot=0.085000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -464,8 +455,8 @@ invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1065
 pos=29.000000,52.000000
-rot=0.250000
-hFlip=1
+rot=0.085000
+hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
@@ -480,8 +471,17 @@ ageRange=-1.000000,-1.000000
 parent=18
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=30479
+pos=35.000000,50.000000
+rot=0.250000
+hFlip=0
+color=0.333000,0.333000,0.333000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spritesDrawnBehind=1,2,5
-spritesAdditiveBlend=3,4,14,22,24,26,27,31,32,33,35,37,38,39,40,42,46,47,48
+spritesAdditiveBlend=3,4,14,22,24,26,27,31,32,33,35,37,38,39,40,42,47,49
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1

@@ -1,7 +1,7 @@
 id=31389
-一些钢架��
+一些钢架
 containable=1
-containSize=2.000000,vertSlotRot=-0.250000
+containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=1
 sideAccess=0
@@ -18,7 +18,8 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=15.000000,6.000000
+containOffset=-2,23
+heldOffset=9.000000,-12.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
