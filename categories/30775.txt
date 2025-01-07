@@ -1,13 +1,8 @@
 parentID=30775
 pattern
-numObjects=10
+numObjects=5
 2097
 7805
 7803
 7810
 7814
-31979
-31980
-31981
-31983
-31982
