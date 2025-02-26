@@ -1,5 +1,5 @@
 id=25971
-Untreated Stamping Stator Press in Wooden Tongs
+未处理的定子冲压模具在木钳上 Untreated Stamping Stator Press in Wooden Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

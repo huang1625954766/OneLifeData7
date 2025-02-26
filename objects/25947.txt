@@ -1,5 +1,5 @@
 id=25947
-Untreated Stamping Rotor Press in Wooden Tongs
+未处理转子冲压模具在木钳 Untreated Stamping Rotor Press in Wooden Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

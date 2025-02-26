@@ -1,5 +1,5 @@
 id=25916
-Dry Planted Clover Cutting
+干四叶草剪Dry Planted Clover Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

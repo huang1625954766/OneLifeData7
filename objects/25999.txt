@@ -1,5 +1,5 @@
 id=25999
-Sheet Mold Filled with Molten Silicon Steel
+装有硅钢的片材模具 Sheet Mold Filled with Molten Silicon Steel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

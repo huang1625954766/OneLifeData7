@@ -1,5 +1,5 @@
 id=26029
-Rotor with Slip Rings
+带滑环的转子 Rotor with Slip Rings
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

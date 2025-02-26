@@ -1,5 +1,5 @@
 id=26065
-Bowl with Raw Blue Rubber Ball
+一碗生的蓝色橡胶球 Bowl with Raw Blue Rubber Ball
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

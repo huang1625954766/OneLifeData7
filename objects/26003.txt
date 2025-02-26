@@ -1,5 +1,5 @@
 id=26003
-Untreated Stator Lamination
+未处理的定子叠片 Untreated Stator Lamination
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

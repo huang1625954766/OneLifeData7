@@ -1,5 +1,5 @@
 id=25983
-Bowl of Quartz and Charcoal Powder
+一碗石英和碳粉 Bowl of Quartz and Charcoal Powder
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -58,7 +58,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=529
-pos=0.000000,-27.000000
+pos=8.000000,-2.999998
 rot=0.000000
 hFlip=0
 color=0.113000,0.113000,0.113000
@@ -83,4 +83,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=0
+pixHeight=6

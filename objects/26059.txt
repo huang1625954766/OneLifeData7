@@ -1,5 +1,5 @@
 id=26059
-Bowl with Raw Rubber Ball and Delicate Iron Red Powder
+一碗生橡胶球和铁红粉 Bowl with Raw Rubber Ball and Delicate Iron Red Powder
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

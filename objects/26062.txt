@@ -1,5 +1,5 @@
 id=26062
-Bowl with Red Rubber Ball
+一碗红色橡胶球 Bowl with Red Rubber Ball
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

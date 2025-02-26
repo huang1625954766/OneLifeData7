@@ -1,5 +1,5 @@
 id=31390
-螺丝
+螺丝和螺母
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -31,8 +31,8 @@ slotSize=1.000000
 slotsLocked=0
 numSprites=2
 spriteID=30434
-pos=2.000000,-37.000000
-rot=0.000000
+pos=-6.000000,-37.000000
+rot=-0.250000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30435
-pos=10.000000,-42.000000
+pos=0.000000,-32.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

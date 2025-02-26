@@ -1,5 +1,5 @@
 id=25958
-Untreated Stamping Die for Stator Lamination
+未处理的定子冲压模具 Untreated Stamping Die for Stator Lamination
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
