@@ -1,5 +1,5 @@
 id=31358
-长钢桌# 信号 占位 拆除��和一堆钢管# 等待反馈 2S
+长钢桌# 信号 占位 拆除
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

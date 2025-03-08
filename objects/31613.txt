@@ -1,5 +1,5 @@
 id=31613
-一碗橙色染料# 1S��碗黄色颜料# 1S 由褐铁矿制作
+一碗橙色染料# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

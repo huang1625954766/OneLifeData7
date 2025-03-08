@@ -1,5 +1,5 @@
 id=31632
-密封的氧化铅坩埚��封的铜锌合金坩埚
+密封的氧化铅坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

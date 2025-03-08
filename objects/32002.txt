@@ -1,5 +1,5 @@
 id=32002
-@ 化学容器物品 +contchemical��化为废水的物�?
+@ 化学容器物品 +contchemical
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

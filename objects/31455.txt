@@ -1,5 +1,5 @@
 id=31455
-工作台上的一些钢架��作台和两根细钢棒与钢锭
+工作台上的一些钢架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

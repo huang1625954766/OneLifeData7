@@ -1,5 +1,5 @@
 id=31427
-@ 玻璃切割台与滴管概率��璃切割台
+@ 玻璃切割台与滴管概率
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

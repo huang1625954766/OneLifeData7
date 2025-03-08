@@ -1,5 +1,5 @@
 id=31453
-工作台上的脚踏泵��作台和试管夹
+工作台上的脚踏泵
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

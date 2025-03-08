@@ -1,5 +1,5 @@
 id=31712
-@ 研钵和研杵研磨物# 1S��钵和研杵与红色颜料# 1S
+@ 研钵和研杵研磨物# 1S
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
