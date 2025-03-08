@@ -1,5 +1,5 @@
 id=26579
-灯柱 Light Post # shut down
+灯柱 Light Post # shut down W
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -23,13 +23,22 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=455:0.250000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=11
+numSprites=12
+spriteID=350779
+pos=-33.000000,13.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=74
 pos=-10.000000,-9.000000
 rot=0.000000
@@ -63,7 +72,7 @@ rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
-parent=2
+parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=112285
@@ -72,7 +81,7 @@ rot=0.000000
 hFlip=0
 color=0.394366,0.394366,0.394366
 ageRange=-1.000000,-1.000000
-parent=2
+parent=3
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2278
@@ -129,7 +138,7 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spritesAdditiveBlend=5,6,7,8,9,10
+spritesAdditiveBlend=6,7,8,9,10,11
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
