@@ -1,5 +1,5 @@
 id=31202
-大石块与机场��石块和机场
+大石块与机场
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

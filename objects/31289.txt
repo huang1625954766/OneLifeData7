@@ -1,5 +1,5 @@
 id=31289
-带热冷凝管的吹管��热冷凝器的吹管
+带热冷凝管的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
