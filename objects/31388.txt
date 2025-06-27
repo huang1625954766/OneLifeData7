@@ -1,5 +1,5 @@
 id=31388
-长钢桌右方格子# 试管架
+长钢桌右方格子# 试管架# +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -35,14 +35,14 @@ slotPos=-21.000000,61.000000,vert=0,parent=-1
 slotPos=-8.000000,61.000000,vert=0,parent=-1
 slotPos=6.000000,61.000000,vert=0,parent=-1
 numSprites=3
-spriteID=2638
-pos=-23.000000,30.000000
-rot=0.250000
+spriteID=30559
+pos=-11.000000,72.000000
+rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
+invisHolding=0,invisWorn=0,behindSlots=1
 invisCont=0
 spriteID=30444
 pos=-19.000000,59.000000
@@ -69,4 +69,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=71
+pixHeight=124

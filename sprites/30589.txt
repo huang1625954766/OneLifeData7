@@ -1,0 +1,1 @@
+DieselCrankAssembly 0 -3 -30

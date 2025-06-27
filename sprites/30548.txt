@@ -1,0 +1,1 @@
+AncientSandstoneHalfWall 0 13 -20
