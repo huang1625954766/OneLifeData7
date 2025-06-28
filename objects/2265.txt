@@ -1,7 +1,7 @@
 id=2265
 Disconnected Pulley Drive Mechanism
-containable=0
-containSize=1.000000,vertSlotRot=0.000000
+containable=1
+containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -32,7 +32,7 @@ slotsLocked=0
 numSprites=5
 spriteID=319
 pos=-30.000000,-28.000000
-rot=0.000000
+rot=-0.100000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -40,8 +40,8 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2172
-pos=47.000000,-22.000000
-rot=0.000000
+pos=28.767597,22.113566
+rot=-0.100000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -49,8 +49,8 @@ parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2173
-pos=-20.000000,-22.000000
-rot=0.000000
+pos=-25.436542,-17.268046
+rot=-0.100000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -58,8 +58,8 @@ parent=0
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2174
-pos=47.000000,-19.000000
-rot=0.000000
+pos=27.004241,24.540617
+rot=-0.100000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -67,8 +67,8 @@ parent=1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=2174
-pos=-20.000000,-18.000000
-rot=0.000000
+pos=-27.787683,-14.031978
+rot=-0.100000
 hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
@@ -82,4 +82,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=0
+pixHeight=41

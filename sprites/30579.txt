@@ -1,0 +1,1 @@
+StoneBlock 0 -2 -10
