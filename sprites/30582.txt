@@ -1,1 +1,1 @@
-StoneBlock 0 -2 -10
+Fish 0 -2 -10

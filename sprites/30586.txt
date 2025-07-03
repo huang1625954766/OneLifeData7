@@ -1,1 +1,1 @@
-StoneBlock 0 -2 -10
+dynamite 0 -2 -10
