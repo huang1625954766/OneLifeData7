@@ -1,5 +1,5 @@
 id=33496
-Watchtower# adjust1
+Watchtower# Open Scope 41*41
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -25,8 +25,8 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=496:0.250000,496:0.250000,-1:0.0,-1:0.0
-creationSoundInitialOnly=1
+sounds=1257:0.108333,-1:0.0,-1:0.0,-1:0.0
+creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
