@@ -1,5 +1,5 @@
 id=27595
-施肥的中华牡丹树丛 Fertilized Chinese Peony Bushes
+施过肥的岛锦牡丹丛 Fertilized Island Brocade Peony Bushes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

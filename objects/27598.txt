@@ -1,5 +1,5 @@
 id=27598
-带中华牡丹剪枝的剪刀 Shears with Chinese Peony Cutting
+剪刀和岛锦牡丹剪枝 Shears with Island Brocade Peony Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
