@@ -1,5 +1,5 @@
 id=27617
-中华牡丹树丛 Chinese Peony Bushes
+岛锦牡丹丛 Island Brocade Peony Bushes
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

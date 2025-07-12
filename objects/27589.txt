@@ -1,5 +1,5 @@
 id=27589
-湿润的中华牡丹植株 Wet Chinese Peony Plant
+湿润的岛锦牡丹植株 Wet Island Brocade Peony Plant
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=27606
-湿润的发芽中华牡丹 Wet Sprouting Chinese Peony
+湿润的岛锦牡丹植株 Wet Sprouting Island Brocade Peony
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

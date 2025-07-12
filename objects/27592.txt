@@ -1,5 +1,5 @@
 id=27592
-干燥的中华牡丹树苗 Dry Chinese Peony Sapling
+干燥的岛锦牡丹丛 Dry Island Brocade Peony Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

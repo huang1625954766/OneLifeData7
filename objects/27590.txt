@@ -1,5 +1,5 @@
 id=27590
-干燥的发芽中华牡丹 Dry Chinese Sprouting Peony
+干燥的岛锦牡丹苗 Dry Island Brocade Sprouting Peony
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
