@@ -1,5 +1,5 @@
 id=27985
-种植在耕地上的郁金香小种球 Small Tulip Seed Ball Planted on Farm# Purple# 1
+Small Tulip Seed Ball Planted on Farm# Purple# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
