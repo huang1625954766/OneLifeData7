@@ -1,5 +1,5 @@
 id=27969
-种植在耕地上的百合小种球 Small Lily Seed Ball Planted on Farm# Pink# 3
+Small Lily Seed Ball Planted on Farm# Pink# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
