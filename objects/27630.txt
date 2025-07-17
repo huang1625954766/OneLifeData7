@@ -1,5 +1,5 @@
 id=27630
-百合大种球 Big Lily Seed Ball# White
+百合大种球 Big Lily Seed Ball# White BaiHe
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

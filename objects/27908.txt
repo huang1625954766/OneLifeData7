@@ -1,5 +1,5 @@
 id=27908
-小郁金香种球 Small Tulip Seed Ball# Red
+小郁金香种球 Small Tulip Seed Ball# Red YJX
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
