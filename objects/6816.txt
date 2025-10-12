@@ -34,7 +34,7 @@ slotPos=-1.000000,0.000000,vert=1,parent=-1
 slotPos=1.000000,0.000000,vert=1,parent=-1
 slotPos=2.000000,0.000000,vert=1,parent=-1
 slotPos=0.000000,0.000000,vert=1,parent=-1
-numSprites=8
+numSprites=9
 spriteID=100257
 pos=24.000000,-25.000000
 rot=0.035000
@@ -90,6 +90,15 @@ ageRange=-1.000000,-1.000000
 parent=4
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=1154
+pos=5.000000,-11.000000
+rot=0.250000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=1189
 pos=-12.608400,-56.242873
 rot=0.555000
@@ -114,5 +123,5 @@ backFootIndex=-1
 frontFootIndex=-1
 numUses=5,0.050000
 useVanishIndex=-1
-useAppearIndex=5,6,7
+useAppearIndex=5,6,7,8
 pixHeight=11
