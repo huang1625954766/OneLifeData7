@@ -1,7 +1,7 @@
 id=33537
 Limestone with Mine Boes# 2
-containable=1
-containSize=3.000000,vertSlotRot=0.000000
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14
 noFlip=0
 sideAccess=0
@@ -19,7 +19,7 @@ floorHugging=0
 foodValue=0
 speedMult=0.500000
 containOffset=0,-25
-heldOffset=20.000000,52.000000
+heldOffset=20.000000,110.000000
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0

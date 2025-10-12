@@ -29,7 +29,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=4
+numSprites=5
 spriteID=110833
 pos=-2.000001,-39.000000
 rot=0.000000
@@ -41,6 +41,15 @@ invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=1156
 pos=28.000000,-40.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=1154
+pos=-12.000000,-38.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -72,5 +81,5 @@ backFootIndex=-1
 frontFootIndex=-1
 numUses=5,0.100000
 useVanishIndex=-1
-useAppearIndex=1,2,3
+useAppearIndex=1,2,3,4
 pixHeight=0
