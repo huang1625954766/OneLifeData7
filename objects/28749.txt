@@ -1,5 +1,5 @@
 id=28749
-锌壳和糊化氯化锌和纸，碳棒 Zinc Shell and Gelatinized Zinc Chloride,Carben Rod
+制作中的电池 Battery in Production#2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -18,7 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=6.000000,-1.000000
+heldOffset=1.000000,-9.000000
 clothing=n
 clothingOffset=-27.000000,72.000000
 deadlyDistance=0
