@@ -1,5 +1,5 @@
 id=30514
-Used Wrap Butter
+Wrap Butter
 containable=1
 containSize=1.000000,vertSlotRot=0.500000
 permanent=0,minPickupAge=3
@@ -30,7 +30,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=12
+numSprites=13
 spriteID=30178
 pos=9.000000,-33.000000
 rot=0.000000
@@ -103,6 +103,15 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=30174
+pos=4.000000,-28.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=30177
 pos=10.000000,-31.000000
 rot=0.000000
@@ -143,7 +152,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=7,1.000000
-useVanishIndex=1,2,3,4,5,6,7
+numUses=8,1.000000
+useVanishIndex=1,2,3,4,5,6,7,8
 useAppearIndex=-1
 pixHeight=0

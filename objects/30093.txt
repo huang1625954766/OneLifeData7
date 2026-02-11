@@ -1,6 +1,6 @@
 id=30093
 梅森橡胶罩Mason Jar of Rubber Cover
-containable=0
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
@@ -18,7 +18,8 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=6.000000,22.000004
+containOffset=2,1
+heldOffset=13.000000,26.000004
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0

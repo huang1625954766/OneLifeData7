@@ -1,5 +1,5 @@
 id=4589
-Tent Wall #blue +useOnContained
+(ourdated) Tent Wall #blue +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,7 +30,6 @@ numSlots=1#timeStretch=1.000000
 slotSize=0.000000
 slotStyle=1
 slotsLocked=0
-slotsNoSwap=0
 slotPos=-1.000000,-5.000000,vert=0,parent=-1
 numSprites=18
 spriteID=444

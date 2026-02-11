@@ -1,5 +1,5 @@
 id=4557
-Mason Jar of Beer# +noFeeding +emotEat_6_10 +alcohol5
+(ourdated) Mason Jar of Beer# +noFeeding +emotEat_6_10 +alcohol5
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
@@ -29,7 +29,6 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-slotsNoSwap=0
 numSprites=6
 spriteID=111206
 pos=0.000000,0.000000

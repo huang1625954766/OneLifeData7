@@ -2,7 +2,7 @@ id=10056
 Horse-Drawn Cart #black,riding
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
-permanent=1,minPickupAge=13
+permanent=0,minPickupAge=13
 noFlip=0
 sideAccess=0
 heldInHand=2
@@ -29,7 +29,6 @@ creationSoundForce=0
 numSlots=4#timeStretch=1.000000
 slotSize=2.000000
 slotsLocked=0
-slotsNoSwap=0
 slotPos=-175.000000,52.999992,vert=1,parent=27
 slotPos=-155.000000,52.999992,vert=1,parent=27
 slotPos=-135.000000,53.999992,vert=1,parent=27
