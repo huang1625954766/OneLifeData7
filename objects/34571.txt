@@ -1,5 +1,5 @@
 id=34571
-Cooked Fat Pork of Lard residue
+Cooked Mushrooms Soy Sauce
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

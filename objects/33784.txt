@@ -21,7 +21,7 @@ speedMult=1.000000
 containOffset=4,-20
 heldOffset=4.000000,13.000000
 clothing=h
-clothingOffset=13.999992,51.000000
+clothingOffset=13.999992,50.000000
 deadlyDistance=0
 useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
@@ -35,7 +35,7 @@ spriteID=30751
 pos=-8.000000,-23.000000
 rot=0.000000
 hFlip=0
-color=1.000000,0.845467,0.732394
+color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0

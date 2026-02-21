@@ -1,5 +1,5 @@
 id=34560
-Fermented Sauerkraut
+Crock of Fermented Bean and Psilocybe Mushrooms Powder
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
