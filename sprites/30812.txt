@@ -1,1 +1,1 @@
-IronOreBox 0 0 -14
+FullIronOrewithMineBox 0 0 -14

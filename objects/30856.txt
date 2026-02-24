@@ -1,5 +1,5 @@
 id=30856
-Hydrangea Seed
+Hydrangea Seed Bag
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -18,7 +18,8 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
-heldOffset=-6.000000,-16.000004
+containOffset=-1,-17
+heldOffset=-5.000000,0.999996
 clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
@@ -29,12 +30,21 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=1
+numSprites=2
 spriteID=30803
 pos=-5.000000,-20.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=111151
+pos=2.000000,-21.000000
+rot=0.000000
+hFlip=0
+color=0.468000,0.900000,0.360000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
@@ -46,4 +56,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=8
+pixHeight=0

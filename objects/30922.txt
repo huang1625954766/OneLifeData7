@@ -1,5 +1,5 @@
 id=30922
-Steel basins of Minced Beef, Fat Pork, and Ice Cube
+Steel basin of Minced Beef, Fat Pork, and Ice Cube
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -30,6 +30,15 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=10
+spriteID=31060
+pos=-4.000000,88.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=-1
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=3053
 pos=-9.000000,-4.000000
 rot=0.000000
@@ -41,15 +50,6 @@ invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=3052
 pos=-1.000000,24.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=30101
-pos=-11.000000,93.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -111,8 +111,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=30102
-pos=-8.000000,75.000000
+spriteID=31059
+pos=-4.000000,66.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -127,4 +127,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=7,8
 useAppearIndex=-1
-pixHeight=94
+pixHeight=105

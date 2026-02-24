@@ -1,6 +1,9 @@
 parentID=32828
 pattern
-numObjects=3
+numObjects=6
 32757
 33532
 33541
+34900
+34906
+34912

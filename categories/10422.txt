@@ -1,8 +1,4 @@
 parentID=10422
 pattern
-numObjects=5
-10401
+numObjects=1
 10403
-10431
-10428
-10425

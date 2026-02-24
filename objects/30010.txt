@@ -1,5 +1,5 @@
 id=30010
-马赛克地板与桩钻石1Mosaic Floor with pile Diamond 1
+马赛克地板与桩钻石1Mosaic Floor with pile of Diamond# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

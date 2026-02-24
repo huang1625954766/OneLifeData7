@@ -1,5 +1,5 @@
 id=33460
-Wooden Table# cloth Not wiped +useOnContained
+Wooden Table# Cloth Not Wiped
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

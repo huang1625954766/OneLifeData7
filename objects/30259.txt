@@ -1,5 +1,5 @@
 id=30259
-Steel basins of Dough
+Steel basin of Dough
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -17,7 +17,7 @@ homeMarker=0
 floor=0
 floorHugging=0
 foodValue=0
-speedMult=0.750000
+speedMult=1.000000
 heldOffset=11.000000,50.000000
 clothing=n
 clothingOffset=0.000000,0.000000
@@ -30,8 +30,8 @@ numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
 numSprites=10
-spriteID=30101
-pos=-11.000000,93.000000
+spriteID=31060
+pos=-4.000000,88.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -40,7 +40,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30104
-pos=-6.000000,83.000000
+pos=-6.000000,82.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -49,7 +49,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30104
-pos=-6.000000,87.000000
+pos=-6.000000,86.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -58,7 +58,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30104
-pos=-6.000000,91.000000
+pos=-6.000000,90.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -67,7 +67,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30104
-pos=-6.000000,95.000000
+pos=-6.000000,94.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -94,7 +94,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30104
-pos=-6.000000,99.000000
+pos=-6.000000,98.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -102,8 +102,8 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=30102
-pos=-8.000000,75.000000
+spriteID=31059
+pos=-4.000000,66.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -127,4 +127,4 @@ frontFootIndex=-1
 numUses=5,1.000000
 useVanishIndex=1,2,3,4,7
 useAppearIndex=-1
-pixHeight=100
+pixHeight=105

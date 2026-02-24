@@ -1,5 +1,5 @@
 id=32009
-化学实验台# 制取二氟乙烯
+化学实验台# 制取二氟乙烯 副反应 生成乙醛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -18,6 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
+containOffset=0,1
 heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
@@ -29,7 +30,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=69
+numSprites=70
 spriteID=30445
 pos=98.000000,67.000000
 rot=0.000000
@@ -507,15 +508,6 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=30485
-pos=26.000000,85.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
 spriteID=30362
 pos=-21.000000,113.000000
 rot=0.500000
@@ -633,6 +625,15 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
+spriteID=30994
+pos=26.000000,59.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
+ageRange=-1.000000,-1.000000
+parent=69
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
 spriteID=3033
 pos=25.000000,70.000000
 rot=0.500000
@@ -642,17 +643,26 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=30479
-pos=30.000000,52.000000
-rot=0.250000
+spriteID=1476
+pos=26.000000,53.000000
+rot=0.000000
 hFlip=0
-color=0.333000,0.333000,0.333000
+color=0.915493,0.915493,0.915493
+ageRange=-1.000000,-1.000000
+parent=69
+invisHolding=0,invisWorn=0,behindSlots=0
+invisCont=0
+spriteID=30995
+pos=26.000000,52.000000
+rot=0.000000
+hFlip=0
+color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spritesDrawnBehind=1
-spritesAdditiveBlend=2,8,13,15,23,24,26,27,33,34,35,36,38,40,41,42,43,44,45,46,47,48,49,51,54,56,58,66,68
+spritesAdditiveBlend=2,8,13,15,23,24,26,27,33,34,35,36,38,40,41,42,43,44,45,46,47,48,49,51,53,55,57,65
 headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
