@@ -1,7 +1,7 @@
 id=30352
 Champagne Glass# +noFeeding +emotEat_6_10 +alcohol10
-containable=1
-containSize=1.000000,vertSlotRot=-0.250000
+containable=0
+containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -83,4 +83,4 @@ frontFootIndex=-1
 numUses=1,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=2
+pixHeight=0
