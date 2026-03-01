@@ -1,6 +1,6 @@
 id=32166
 玩具小蛇 Toy Snake
-containable=0
+containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=0
 noFlip=0
@@ -18,6 +18,7 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=1.000000
+containOffset=3,0
 heldOffset=10.000000,20.000000
 clothing=n
 clothingOffset=0.000000,0.000000
