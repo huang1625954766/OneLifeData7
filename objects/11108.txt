@@ -1,5 +1,5 @@
 id=11108
-Boards with Two Shafts# just dismantled
+Boards with Two Shafts# 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -29,7 +29,6 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-slotsNoSwap=0
 numSprites=3
 spriteID=319
 pos=36.000000,-18.000000

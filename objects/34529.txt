@@ -1,5 +1,5 @@
 id=34529
-Honey Press# 6
+Honey Press# 7
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -24,7 +24,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=1268:0.066667,-1:0.0,-1:0.0,-1:0.0
+sounds=465:0.132292,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -94,10 +94,10 @@ ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
-spriteID=31042
-pos=10.000000,110.000000
+spriteID=31040
+pos=-8.000000,112.000000
 rot=0.000000
-hFlip=1
+hFlip=0
 color=1.000000,1.000000,1.000000
 ageRange=-1.000000,-1.000000
 parent=-1
@@ -182,4 +182,4 @@ frontFootIndex=-1
 numUses=0,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=147
+pixHeight=142

@@ -1,5 +1,5 @@
 id=12628
-Copper Sprinkler #EW spraying 范围4
+Copper Sprinkler #EW spraying Scope (9*9)
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

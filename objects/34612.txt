@@ -1,5 +1,5 @@
 id=34612
-Lemon Slices
+Bitter Orange Slices
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
@@ -30,7 +30,7 @@ creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000
 slotsLocked=0
-numSprites=5
+numSprites=3
 spriteID=514
 pos=0.000000,-34.000000
 rot=0.000000
@@ -41,37 +41,19 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30060
-pos=4.000000,-31.000000
+pos=-1.000000,-30.000000
 rot=0.000000
 hFlip=0
-color=0.350706,0.716549,0.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=30060
-pos=-6.000000,-30.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.821123,1.000000,0.649648
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30063
-pos=-3.000000,-32.000000
+pos=-2.000000,-32.000000
 rot=0.000000
 hFlip=0
-color=0.350706,0.716549,0.000000
-ageRange=-1.000000,-1.000000
-parent=-1
-invisHolding=0,invisWorn=0,behindSlots=0
-invisCont=0
-spriteID=30063
-pos=-7.000000,-32.000000
-rot=0.000000
-hFlip=0
-color=1.000000,1.000000,1.000000
+color=0.821123,1.000000,0.649648
 ageRange=-1.000000,-1.000000
 parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
