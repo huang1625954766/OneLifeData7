@@ -1,6 +1,5 @@
 id=33335
-Vodka Wine Glass# +noFeeding +emotEat_6_10 +alcohol15
-containable=0
+Vodka Wine Glass# +noFeeding +emotEat_6_10 +alcohol10
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

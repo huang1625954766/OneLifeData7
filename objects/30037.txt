@@ -1,6 +1,5 @@
 id=30037
-足球FootBall# Miss
-containable=0
+FootBall# Miss
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

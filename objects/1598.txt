@@ -1,6 +1,5 @@
 id=1598
-Pile of Iron Ore
-containable=0
+Iron Ore Pile
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

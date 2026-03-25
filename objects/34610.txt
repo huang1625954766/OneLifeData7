@@ -1,6 +1,5 @@
 id=34610
-Plate of Lime
-containable=0
+Lemon Slices
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

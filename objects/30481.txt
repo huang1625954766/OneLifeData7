@@ -1,6 +1,5 @@
 id=30481
-fruiting Strawberry Sprouts# Sparrow Flee
-containable=0
+fruiting Strawberry Sprouts# Sparrow flee
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=1

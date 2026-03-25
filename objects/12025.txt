@@ -1,6 +1,5 @@
 id=12025
-Primitive Fishing Pole with Bass# 1S
-containable=0
+Primitive Fishing Pole with Bass#just caught
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=519
-@ Food Burner# fire
-containable=0
+@ Food Burner
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=34979
-Plate of Doner Kebab# 1
-containable=0
+Stack of Doner Kebab# 1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=4102
-Pile of Huge Charcoal
-containable=0
+Huge Charcoal Pile
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

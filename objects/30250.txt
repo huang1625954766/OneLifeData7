@@ -1,6 +1,5 @@
 id=30250
-Pile of White Rose
-containable=0
+White Rose pile
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

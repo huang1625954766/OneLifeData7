@@ -1,6 +1,5 @@
 id=7331
-(outdated) Bee Smoker
-containable=0
+Bee Smoker
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=1

@@ -1,6 +1,5 @@
 id=32348
-Pile of Blue Rubber Ball
-containable=0
+Blue Rubber Ball pile
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

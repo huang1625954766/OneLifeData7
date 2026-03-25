@@ -1,6 +1,5 @@
 id=28970
-Staked Blossom Tree #justStaked C
-containable=0
+Staked Blossom Tree #justStaked
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

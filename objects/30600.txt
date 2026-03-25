@@ -1,6 +1,5 @@
 id=30600
-湿研钵
-containable=1
+Wet Bone China Bowl
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

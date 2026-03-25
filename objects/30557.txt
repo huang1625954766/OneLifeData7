@@ -1,6 +1,5 @@
 id=30557
 Bowl of NA2O
-containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0

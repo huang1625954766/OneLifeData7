@@ -1,6 +1,5 @@
 id=34772
-Cough# sick food_0.5 fever_5
-containable=0
+Cough# sick food_0.5
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

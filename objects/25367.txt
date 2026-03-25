@@ -1,6 +1,5 @@
 id=25367
-3D Chess Projector # black reset
-containable=0
+3D Chess Projector # +tapoutTrigger,3,-3 black reset
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
 noFlip=0

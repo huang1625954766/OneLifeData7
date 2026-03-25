@@ -1,6 +1,5 @@
 id=34514
-Thread Steel Rod
-containable=1
+Steel Rod
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=1

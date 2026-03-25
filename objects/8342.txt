@@ -1,6 +1,5 @@
 id=8342
 Four Pieces of Cut Leather Sheet
-containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

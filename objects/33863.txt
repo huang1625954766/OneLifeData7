@@ -1,6 +1,5 @@
 id=33863
-Firing Double Chamber Furnace with Clay Material
-containable=0
+Firing Twin Furnace Cipola with Clay Material
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

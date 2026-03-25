@@ -1,6 +1,5 @@
 id=722
-@ Shallow Digger Tool
-containable=0
+@ Shallow Digger
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

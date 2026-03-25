@@ -1,6 +1,5 @@
 id=14416
-Bowl of Dirty Bee Wax# 1S
-containable=0
+Bowl of Dirty Bee Wax#justScoped
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

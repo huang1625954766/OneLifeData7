@@ -1,6 +1,5 @@
 id=30577
-Wrap French
-containable=1
+Used Wrap Popcorn
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3
 noFlip=0

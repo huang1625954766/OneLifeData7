@@ -1,6 +1,5 @@
 id=12979
-@ Random Items Dug Up by Collie
-containable=0
+Random Items Dug Up by Collie
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=7090
-Pile of Tied Yew Shafts
-containable=0
+Two Tied Yew Shafts
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=5331
-(outdated) Silver Ore #2HOL
-containable=1
+Silver Ore #2HOL
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

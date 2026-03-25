@@ -1,6 +1,5 @@
 id=4635
-(outdated) Distillery with Hops
-containable=0
+Distillery with Hops
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

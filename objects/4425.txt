@@ -1,6 +1,5 @@
 id=4425
-(ourdated) Blessed Shrine #A one pie
-containable=0
+Blessed Shrine #A one pie
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
 noFlip=0

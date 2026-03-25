@@ -1,6 +1,5 @@
 id=5164
-(outdated) Vial of Medicine
-containable=1
+Vial of Medicine
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0

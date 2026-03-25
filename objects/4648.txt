@@ -1,6 +1,5 @@
 id=4648
-Dead Tree# hops fruit
-containable=0
+Dead Tree #hops fruit
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

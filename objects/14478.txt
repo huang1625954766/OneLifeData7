@@ -1,6 +1,5 @@
 id=14478
 Big Ball of Linen Yarn
-containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0

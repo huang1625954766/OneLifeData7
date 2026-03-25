@@ -1,6 +1,5 @@
 id=32205
-黄色熊皮斗篷 Yellow Bear Skin Cloak
-containable=1
+Yellow Bear Skin Cloak
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0

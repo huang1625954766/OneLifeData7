@@ -1,6 +1,5 @@
 id=31071
-一袋鱼饲料 #4
-containable=1
+Bag of Fish Feed #4
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3
 noFlip=1

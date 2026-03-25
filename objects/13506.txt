@@ -1,6 +1,5 @@
 id=13506
-Closed Firing Stone Kiln with Pile of Limestone
-containable=0
+Closed Firing Stone Kiln with Limestone Pile
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

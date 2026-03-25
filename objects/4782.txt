@@ -1,6 +1,5 @@
 id=4782
-(outdated) Cooked Flapjacks #3
-containable=0
+Cooked Flapjacks #3
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

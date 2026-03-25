@@ -1,6 +1,5 @@
 id=1602
-Stack of Clay Plates# ABC
-containable=1
+Stack of Clay Plates
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=2816
-Net# 1S
-containable=1
+Net# just emptied
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0

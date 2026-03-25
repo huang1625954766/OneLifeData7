@@ -1,6 +1,5 @@
 id=30782
-一碗鱼肉粉
-containable=1
+Fish Powder in Bowl
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

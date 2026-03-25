@@ -1,6 +1,5 @@
 id=30178
-木制宝石桶Wooden Barrel of gem random
-containable=1
+Wooden Barrel of gem random
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14
 noFlip=0

@@ -1,6 +1,5 @@
 id=30512
 Stack of Green Dyed Paper# Use6
-containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

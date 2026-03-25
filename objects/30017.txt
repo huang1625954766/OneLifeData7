@@ -1,6 +1,5 @@
 id=30017
-硫化橡胶球阀Vulcanized Rubber Ball and Valve
-containable=1
+Vulcanized Rubber Ball and Valve
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

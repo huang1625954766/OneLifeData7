@@ -1,6 +1,5 @@
 id=5178
-Banner #sparta
-containable=1
+Banner# sparta
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=1

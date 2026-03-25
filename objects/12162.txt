@@ -1,6 +1,5 @@
 id=12162
-Clothing Rack# +noClickThrough
-containable=0
+Clothing Rack
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

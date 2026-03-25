@@ -1,6 +1,5 @@
 id=31990
-Steel Tongs
-containable=1
+坩埚钳
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=31089
-Steel basin of Minced Pork# 1S
-containable=0
+Steel basins of Minced Pork# 1S
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

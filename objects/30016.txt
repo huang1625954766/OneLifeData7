@@ -1,6 +1,5 @@
 id=30016
-硫化橡胶球Vulcanized Rubber Ball
-containable=1
+Vulcanized Rubber Ball
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

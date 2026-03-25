@@ -1,6 +1,5 @@
 id=33498
-Watchtower# Close
-containable=0
+Watchtower# adjust2
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

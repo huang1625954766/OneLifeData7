@@ -1,6 +1,5 @@
 id=30101
-一碗盐酸Bowl of HCL
-containable=0
+Bowl of HCL
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

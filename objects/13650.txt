@@ -1,6 +1,5 @@
 id=13650
-FirepitA with Hot Coals #eveHomeMarker
-containable=0
+Firepit with Hot Coals #eveHomeMarker
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=10624
-(outdated) Copper Coil in Wooden Tongs
-containable=0
+Copper Coil in Wooden Tongs
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

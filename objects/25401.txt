@@ -1,6 +1,5 @@
 id=25401
-Chessboard Projection # open W
-containable=0
+Chessboard Projection # open #+tapoutTrigger,5,1,5,0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
 noFlip=0

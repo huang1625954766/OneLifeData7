@@ -1,6 +1,5 @@
 id=5171
-Banner #meow
-containable=1
+Banner# meow
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=1

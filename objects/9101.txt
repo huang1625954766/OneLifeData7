@@ -1,6 +1,5 @@
 id=9101
-Fern# Large
-containable=0
+Fern#large
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

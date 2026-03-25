@@ -1,6 +1,5 @@
 id=4496
-(ourdated) Wet Clay Bowl of Clay
-containable=1
+Wet Clay Bowl of Clay
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

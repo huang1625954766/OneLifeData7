@@ -1,6 +1,5 @@
 id=12713
-Hunting White Cat# Scope (7*7)
-containable=0
+Hunting White Cat #+tapoutTrigger,1,1,3,3
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=4428
-(ourdated) Blessed Shrine #A with cocoon
-containable=0
+Blessed Shrine #A with cocoon
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=33811
-Firing Double Chamber Furnace with Perlite Block
-containable=0
+Firing Twin Furnace Cipola with Perlite Block
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

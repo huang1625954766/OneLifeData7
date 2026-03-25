@@ -1,6 +1,5 @@
 id=650
-Formation Bear Cave
-containable=0
+Bear Cave#empty
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

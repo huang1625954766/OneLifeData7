@@ -1,6 +1,5 @@
 id=5284
-(outdated) Steel Blade Blank with Copper Plate
-containable=1
+Steel Blade Blank with Copper Plate
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

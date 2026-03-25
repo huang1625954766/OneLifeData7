@@ -1,6 +1,5 @@
 id=28983
-盛开的紫藤花树 Blooming Wisteria Tree in Tree Pit# Floating Flowers# W
-containable=0
+Blooming Wisteria Tree in Tree Pit# Floating Flowers# W
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

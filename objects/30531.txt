@@ -1,6 +1,5 @@
 id=30531
-Crude Airplane with Empty Tank# long
-containable=0
+Crude Airplane with Empty Tank# Rope
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16
 noFlip=0

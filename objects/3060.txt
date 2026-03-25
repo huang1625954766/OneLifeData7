@@ -1,6 +1,5 @@
 id=3060
-Stakes# 1S
-containable=1
+Stakes# just dropped
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

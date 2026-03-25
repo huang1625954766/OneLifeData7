@@ -1,6 +1,5 @@
 id=248
-Firebrand# ZXC
-containable=0
+Firebrand
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

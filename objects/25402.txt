@@ -1,6 +1,5 @@
 id=25402
-Chessboard Projection # open # mid W
-containable=0
+Chessboard Projection # open # mid
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=33721
-Double Chamber Furnace# 2
-containable=0
+Twin Furnace Cupola# 1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

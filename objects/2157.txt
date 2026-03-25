@@ -1,6 +1,5 @@
 id=2157
-Mosquito Swarm# 5S
-containable=0
+Mosquito Swarm#just bit
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

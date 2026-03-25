@@ -1,6 +1,5 @@
 id=13509
-Empty Stone Kiln# 1S
-containable=0
+Empty Stone Kiln# just emptied
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

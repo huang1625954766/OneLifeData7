@@ -1,6 +1,5 @@
 id=5342
-Mammoth Hide Gambeson# Cloak Blue
-containable=1
+Mammoth Hide Gambeson #cloak blue
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0

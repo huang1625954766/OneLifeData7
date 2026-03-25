@@ -1,6 +1,5 @@
 id=33980
-Sack of Crushed Perlites# 2
-containable=1
+Sack of Crushed Perlites # 2
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3
 noFlip=1

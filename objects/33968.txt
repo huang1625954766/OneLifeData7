@@ -1,6 +1,5 @@
 id=33968
-Steel Wheelbarrow with Albites
-containable=0
+Steel Wheelbarrow with Limestones
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12
 noFlip=0

@@ -1,6 +1,5 @@
 id=11536
-Formation Tundra Ore Vein
-containable=0
+Tundra Ore Vein
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

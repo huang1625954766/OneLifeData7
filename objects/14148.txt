@@ -1,6 +1,5 @@
 id=14148
-Bowl of Raw Sugar# just poured
-containable=1
+Bowl of Raw Sugar#just poured
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0

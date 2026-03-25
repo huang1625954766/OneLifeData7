@@ -1,6 +1,5 @@
 id=33463
-Southern German Breakfast Platter Table# 5 Beer
-containable=0
+Southern German Breakfast Platter Table# 5
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=1

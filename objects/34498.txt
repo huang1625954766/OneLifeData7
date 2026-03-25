@@ -1,6 +1,5 @@
 id=34498
-a set Steel Thin Steel Pipes on Work Bench
-containable=0
+Bicycle Wheel Rim on Work Bench
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

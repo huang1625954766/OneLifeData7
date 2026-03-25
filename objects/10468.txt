@@ -1,6 +1,5 @@
 id=10468
-Pile of Garlic Bulb
-containable=0
+Garlic Bulb Pile
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

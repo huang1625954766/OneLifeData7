@@ -1,6 +1,5 @@
 id=33813
-Firing Double Chamber Furnace with Expanded Perlite
-containable=0
+Twin Furnace Cupola with Expanded Perlite
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

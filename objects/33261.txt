@@ -1,6 +1,5 @@
 id=33261
-Pile of Indigo Bundle
-containable=0
+Indigo Bundle Pile
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=8392
-@ Sealed Crucible 
-containable=0
+@ Sealed Crucible
 containSize=1.000000,vertSlotRot=0.250000
 permanent=0,minPickupAge=3
 noFlip=0

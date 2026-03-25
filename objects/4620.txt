@@ -1,6 +1,5 @@
 id=4620
-(ourdated) Glass Tube
-containable=1
+Glass Tube
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

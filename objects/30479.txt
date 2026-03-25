@@ -1,6 +1,5 @@
 id=30479
-fruiting Strawberry Sprouts# Sparrow Landing Scope (11*11)
-containable=0
+fruiting Strawberry Sprouts# Sparrow #landing +tapoutTrigger,1,1,5,5
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=1

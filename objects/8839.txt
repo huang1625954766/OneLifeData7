@@ -1,6 +1,5 @@
 id=8839
-Sprouts Beets
-containable=0
+Sprouting Beets
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

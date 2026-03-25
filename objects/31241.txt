@@ -1,6 +1,5 @@
 id=31241
-骨瓷粘土割下的小组件
-containable=1
+骨瓷黏土线圈
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

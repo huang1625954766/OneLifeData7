@@ -1,13 +1,12 @@
 id=34651
 Excited Wolf
-containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
-mapChance=0.000000#biomes_0
+mapChance=0.150000#biomes_3
 heatValue=0
 rValue=0.000000
 person=0,noSpawn=0

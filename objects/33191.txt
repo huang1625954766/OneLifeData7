@@ -1,6 +1,5 @@
 id=33191
-European Mount of Blunt War Sword
-containable=1
+Bowl of Albite Powder
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0

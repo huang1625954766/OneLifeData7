@@ -1,6 +1,5 @@
 id=4546
 Mason Jar
-containable=1
 containSize=1.000000,vertSlotRot=0.750000
 permanent=0,minPickupAge=3
 noFlip=0

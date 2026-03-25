@@ -1,6 +1,5 @@
 id=33051
-玻璃辅助配料# 4级
-containable=1
+玻璃辅助配料# 3级
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0

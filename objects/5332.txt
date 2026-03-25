@@ -1,6 +1,5 @@
 id=5332
-(outdated) Silver Ore in Wooden Tongs #2HOL
-containable=0
+Silver Ore in Wooden Tongs #2HOL
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=6701
-Wooden Table# +useOnContained ABC
-containable=0
+Wooden Table# +useOnContained
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=1

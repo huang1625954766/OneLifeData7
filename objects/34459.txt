@@ -1,6 +1,5 @@
 id=34459
 竹篁绿丝绸# 4
-containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=5179
-Banner #avalon
-containable=1
+Banner# avalon
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=1

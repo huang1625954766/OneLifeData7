@@ -1,6 +1,5 @@
 id=4735
-(outdated) Burlap Sack
-containable=1
+Burlap Sack
 containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3
 noFlip=0

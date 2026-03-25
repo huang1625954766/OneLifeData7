@@ -1,6 +1,5 @@
 id=14314
-Smithing Hammer# 1S
-containable=1
+Smithing Hammer #justRemoved
 containSize=1.000000,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3
 noFlip=0

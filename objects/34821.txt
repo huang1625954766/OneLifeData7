@@ -1,6 +1,5 @@
 id=34821
 Empty Airdrop Box# Blue-Gray level3 4
-containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

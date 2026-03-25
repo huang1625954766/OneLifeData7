@@ -1,6 +1,5 @@
 id=34316
 Crowbar with Rivet
-containable=1
 containSize=2.000000,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3
 noFlip=0

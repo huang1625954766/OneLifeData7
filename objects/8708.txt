@@ -1,6 +1,5 @@
 id=8708
-(outdated) Horse Shoe
-containable=1
+Horse Shoe
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

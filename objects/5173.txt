@@ -1,6 +1,5 @@
 id=5173
-Banner #oblivion
-containable=1
+Banner# oblivion
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=1

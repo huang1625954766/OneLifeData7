@@ -1,6 +1,5 @@
 id=32301
-Glass with Kindling
-containable=0
+Glass with Kinding
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

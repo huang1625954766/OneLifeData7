@@ -1,6 +1,5 @@
 id=25407
-3D Chess Projector# 1S
-containable=0
+3D Chess Projector # +tapoutTrigger,1,1,0,4 just close
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3
 noFlip=0

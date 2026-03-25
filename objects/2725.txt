@@ -1,6 +1,5 @@
 id=2725
-Pile of Limestone
-containable=0
+Limestone Pile
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

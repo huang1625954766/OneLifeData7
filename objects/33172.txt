@@ -1,6 +1,5 @@
 id=33172
-硫酸梅森罐Mason Jar of HNO3
-containable=0
+Mason Jar of HNO3
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

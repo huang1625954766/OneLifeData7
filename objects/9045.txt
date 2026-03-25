@@ -1,6 +1,5 @@
 id=9045
-Pile of Dry Glasswort
-containable=0
+Pile Dry Glasswort
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

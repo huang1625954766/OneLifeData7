@@ -1,6 +1,5 @@
 id=30089
-一碗简单的漂白剂Bowl of Simple Bleach
-containable=0
+Bowl of Simple Bleach
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

@@ -1,6 +1,5 @@
 id=34526
-Honey Press# 4
-containable=0
+Honey Press# 3
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=1

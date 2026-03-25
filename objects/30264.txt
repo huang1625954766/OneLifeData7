@@ -1,6 +1,5 @@
 id=30264
-Pile of Steel basins
-containable=0
+Steel basins pile
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0
