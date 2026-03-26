@@ -1,5 +1,6 @@
 id=2380
 Diesel Cylinder Head with Valves
+containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=15
 noFlip=0

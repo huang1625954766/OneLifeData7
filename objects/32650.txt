@@ -1,5 +1,6 @@
 id=32650
 Two Manometry Trigger Pipe,Pressure Gauge,Steel Wire,Steel Cylinder Blank,Small Steel Sheets,Thin Springs on Work Bench
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

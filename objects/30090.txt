@@ -1,5 +1,6 @@
 id=30090
 Stack of Marble Tiles# Black of White
+containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14
 noFlip=0

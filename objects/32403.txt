@@ -1,5 +1,6 @@
 id=32403
 Chemical Work Bench with High H2SO4# thermometry Control Reaction Anti Sucking
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=1

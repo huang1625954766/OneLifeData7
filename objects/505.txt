@@ -1,5 +1,6 @@
 id=505
 Split Big Rock#left
+containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14
 noFlip=0

@@ -1,5 +1,6 @@
 id=34273
 Bone Flower Pot with Dry Schefflera Cutting
+containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14
 noFlip=1

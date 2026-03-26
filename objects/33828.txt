@@ -1,5 +1,6 @@
 id=33828
 Expanded Perlite insulation Block
+containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14
 noFlip=1

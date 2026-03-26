@@ -1,5 +1,6 @@
 id=489
 Phonorecord Sleeve
+containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=1

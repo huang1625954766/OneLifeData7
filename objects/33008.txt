@@ -1,5 +1,6 @@
 id=33008
 Wheeled Hand Cart with Basalt Rock
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16
 noFlip=0

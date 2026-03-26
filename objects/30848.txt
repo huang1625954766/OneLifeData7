@@ -1,5 +1,6 @@
 id=30848
 Clay Flower Crock# Draw 2
+containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14
 noFlip=1

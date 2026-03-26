@@ -1,5 +1,6 @@
 id=33500
 Watchtower# Elife Mobility Group Transfer
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0

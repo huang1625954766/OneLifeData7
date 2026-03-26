@@ -1,5 +1,6 @@
 id=14642
 Ornament Mold with Cast Iron Ornaments
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

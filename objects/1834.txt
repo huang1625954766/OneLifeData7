@@ -1,5 +1,6 @@
 id=1834
 Dead Bonsai out of Bowl
+containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3
 heldInHand=0

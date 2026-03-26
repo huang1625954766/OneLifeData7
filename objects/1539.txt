@@ -1,5 +1,6 @@
 id=1539
 Quenched Steel Spring in Wooden Tongs
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 heldInHand=0

@@ -1,5 +1,6 @@
 id=667
 Bear Skin
+containable=1
 containSize=2.000000,vertSlotRot=-0.125000
 permanent=0,minPickupAge=3
 noFlip=0

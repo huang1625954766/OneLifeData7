@@ -1,5 +1,6 @@
 id=5218
 (outdated) Hot Cast Iron Pan with Poaching Egg
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
 noFlip=0

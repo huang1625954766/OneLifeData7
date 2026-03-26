@@ -1,5 +1,6 @@
 id=25716
 Stack of Granite Tiles with Chisel
+containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14
 noFlip=1

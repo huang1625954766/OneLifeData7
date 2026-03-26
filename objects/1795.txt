@@ -1,5 +1,6 @@
 id=1795
 Poplar Tree Cutting
+containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3
 heldInHand=1
