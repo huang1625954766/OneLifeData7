@@ -6,7 +6,7 @@ permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=1
+blocksWalking=1,leftBlockingRadius=1,rightBlockingRadius=1,drawBehindPlayer=1
 mapChance=0.000000#biomes_0
 heatValue=42
 rValue=0.000000
@@ -21,10 +21,10 @@ speedMult=1.000000
 heldOffset=0.000000,0.000000
 clothing=n
 clothingOffset=0.000000,0.000000
-deadlyDistance=1
+deadlyDistance=0
 useDistance=1
-sounds=1574:0.250000,-1:0.0,-1:0.0,-1:0.0
-creationSoundInitialOnly=0
+sounds=45:0.250000,45:0.250000,-1:0.0,-1:0.0
+creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
 slotSize=1.000000

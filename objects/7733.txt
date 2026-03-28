@@ -1,5 +1,5 @@
 id=7733
-Ripe Wheat #crow #eating
+Ripe Wheat# Crow Eating Scope (7*7) 
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

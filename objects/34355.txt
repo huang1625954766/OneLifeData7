@@ -1,7 +1,7 @@
 id=34355
 Wooden Flower Pot Schefflera
 containable=1
-containSize=3.000000,vertSlotRot=0.000000
+containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
 noFlip=0
 sideAccess=0
@@ -18,7 +18,6 @@ floor=0
 floorHugging=0
 foodValue=0
 speedMult=0.750000
-containOffset=-1,0
 heldOffset=11.000000,103.000000
 clothing=n
 clothingOffset=0.000000,0.000000

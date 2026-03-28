@@ -1,5 +1,5 @@
 id=34613
-Bartenders# Bloody Mary 5
+Bartenders# Bloody Mary 6
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -23,7 +23,7 @@ clothing=n
 clothingOffset=0.000000,0.000000
 deadlyDistance=0
 useDistance=1
-sounds=287:0.250000,-1:0.0,-1:0.0,-1:0.0
+sounds=342:0.250000,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=1
 creationSoundForce=0
 numSlots=0#timeStretch=1.000000
@@ -155,4 +155,4 @@ frontFootIndex=-1
 numUses=0,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
-pixHeight=89
+pixHeight=86

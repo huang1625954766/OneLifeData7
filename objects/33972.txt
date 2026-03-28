@@ -1,5 +1,5 @@
 id=33972
-@ test FireWorks -28 674
+test FireWorks -28 674
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -76,7 +76,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30902
-pos=-13.999999,137.000000
+pos=-73.999999,117.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -94,7 +94,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30904
-pos=27.000002,102.000002
+pos=7.000002,82.000002
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -103,7 +103,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30905
-pos=92.000000,158.000000
+pos=33.000000,78.000000
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000
@@ -112,7 +112,7 @@ parent=-1
 invisHolding=0,invisWorn=0,behindSlots=0
 invisCont=0
 spriteID=30906
-pos=79.000000,109.999996
+pos=19.000000,89.999996
 rot=0.000000
 hFlip=0
 color=1.000000,1.000000,1.000000

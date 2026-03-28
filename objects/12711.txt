@@ -1,5 +1,5 @@
 id=12711
-Hunting Maine Coon Cat #范围3
+Hunting Maine Coon Cat# Scope (7*7)
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
