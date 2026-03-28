@@ -1,5 +1,5 @@
 id=33757
-Firing Twin Furnace Cipola with Iron# Use12
+Double Chamber Furnace with Iron# Use12 Limestone
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

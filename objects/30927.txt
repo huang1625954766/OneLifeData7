@@ -1,5 +1,5 @@
 id=30927
-Steel basins of White Sausages Mashed Meat
+Steel basin of White Sausages Mashed Meat
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

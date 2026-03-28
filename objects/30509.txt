@@ -1,5 +1,5 @@
 id=30509
-Wrap Butter
+(outdated) Wrap Butter
 containable=1
 containSize=1.000000,vertSlotRot=0.500000
 permanent=0,minPickupAge=3

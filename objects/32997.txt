@@ -1,5 +1,5 @@
 id=32997
-Chemical Work Bench with Ice Water Mixture# Dilute Nitric Sulfuric Mixed Acid
+Chemical Work Bench with Water# Mason Jar Burette
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

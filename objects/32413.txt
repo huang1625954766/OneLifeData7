@@ -1,5 +1,5 @@
 id=32413
-Chemical Work Bench with Ice Water Mixture# Nitric Sulfuric Mixed Acid
+Chemical Work Bench with Ice Water Mixture# Nitric Sulfuric Mixed Acid# Use6
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

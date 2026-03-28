@@ -1,5 +1,5 @@
 id=33864
-Firing Twin Furnace Cipola with Clay Match# Use1
+Firing Double Chamber Furnace with Clinker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

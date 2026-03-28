@@ -1,5 +1,5 @@
 id=32144
-带刻度基准的书写台
+Scale Reference on Write Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

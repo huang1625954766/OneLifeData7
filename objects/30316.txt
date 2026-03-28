@@ -1,5 +1,5 @@
 id=30316
-Windy Power Windmill# Start +tapoutTrigger,1,1,1,0
+Windy Power Windmill# Start
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

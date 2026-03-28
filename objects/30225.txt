@@ -1,5 +1,5 @@
 id=30225
-Grape Coconut Milk pile
+Pile of Grape Coconut Milk
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

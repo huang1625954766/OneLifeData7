@@ -1,5 +1,5 @@
 id=623
-Dry Compost Pile
+Pile of Dry Compost
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
