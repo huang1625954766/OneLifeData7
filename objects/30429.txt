@@ -1,5 +1,5 @@
 id=30429
-29号物品# 稀有
+Ltem 29# Paper Box
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

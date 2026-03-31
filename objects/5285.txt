@@ -1,5 +1,5 @@
 id=5285
-(outdated) Blade Blank and Copper Plate in Tongs
+Blade Blank and Copper Plate in Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=8256
-Pile of Christmas Lights# 4
+Christmas Lights Pile #4
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3
