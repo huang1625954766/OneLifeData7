@@ -1,5 +1,5 @@
 id=33867
-Firing Double Chamber Furnace with Quicklime
+Twin Furnace Cupola with Cement
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
@@ -529,7 +529,7 @@ headIndex=-1
 bodyIndex=-1
 backFootIndex=-1
 frontFootIndex=-1
-numUses=6,1.000000
+numUses=12,1.000000
 useVanishIndex=-1
 useAppearIndex=-1
 pixHeight=297

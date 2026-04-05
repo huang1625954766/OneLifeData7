@@ -1,5 +1,5 @@
 id=31080
-Console# B Scope (81*81)
+Console# B +tapoutTrigger,1,1,40,40
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

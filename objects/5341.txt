@@ -1,5 +1,5 @@
 id=5341
-Mammoth Hide Gambeson# Cloak
+Mammoth Hide Gambeson #cloak
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

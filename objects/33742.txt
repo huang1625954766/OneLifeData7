@@ -1,5 +1,5 @@
 id=33742
-Double Chamber Furnace
+Firing Twin Furnace Cipola with Iron Ore# 1-12
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

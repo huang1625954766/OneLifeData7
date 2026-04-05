@@ -1,5 +1,5 @@
 id=5346
-Mammoth Hide Helm# Officer
+Mammoth Hide Officer Helm
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

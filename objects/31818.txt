@@ -1,5 +1,5 @@
 id=31818
-一碗氢氟酸#  铅碗
+一碗氢氟酸
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

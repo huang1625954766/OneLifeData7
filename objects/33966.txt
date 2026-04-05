@@ -1,5 +1,5 @@
 id=33966
-Steel Wheelbarrow with Blue Opal Mines
+Steel Wheelbarrow with Alum
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12
