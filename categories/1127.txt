@@ -1,3 +1,5 @@
 parentID=1127
-numObjects=1
+pattern
+numObjects=2
 192
+1126
