@@ -1,5 +1,5 @@
 id=30260
-Steel basins of Leavened Dough
+发酵面团钢盆Steel basins of Leavened Dough
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=863
-Broken Wood Tool
+损坏的木制工具Broken Wood Tool
 containable=1
 containSize=1,vertSlotRot=-0.360000
 permanent=0,minPickupAge=3

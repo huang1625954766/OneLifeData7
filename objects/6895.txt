@@ -1,5 +1,5 @@
 id=6895
-Pile of Arctic Char
+一堆北极红点鲑Pile of Arctic Char
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

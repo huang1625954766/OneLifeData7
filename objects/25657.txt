@@ -1,5 +1,5 @@
 id=25657
-Plate of Shredded Cheese
+一盘奶酪丝Plate of Shredded Cheese
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=14144
-Pot of Cane Juice
+一壶甘蔗汁Pot of Cane Juice
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

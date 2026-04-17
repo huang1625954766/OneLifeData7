@@ -1,5 +1,5 @@
 id=25981
-Lab Table with Charcoal Powder
+木炭粉实验台Lab Table with Charcoal Powder
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

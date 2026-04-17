@@ -1,5 +1,5 @@
 id=7906
-Pitchfork on Poipack
+带干草叉的棉布背包Pitchfork on Poipack
 containable=1
 containSize=2.000000,vertSlotRot=-1.250000
 permanent=0,minPickupAge=3

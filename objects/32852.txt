@@ -1,5 +1,5 @@
 id=32852
-Cut Perlites
+碎珍珠岩Cut Perlites
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

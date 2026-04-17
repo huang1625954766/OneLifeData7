@@ -1,5 +1,5 @@
 id=10060
-Three Leather Sheets
+三张皮革片Three Leather Sheets
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

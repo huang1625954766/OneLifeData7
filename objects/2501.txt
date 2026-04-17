@@ -1,5 +1,5 @@
 id=2501
-Newcomen Drill with Charcoal
+含木炭的纽科门钻孔机Newcomen Drill with Charcoal
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

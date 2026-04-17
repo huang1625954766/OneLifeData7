@@ -1,5 +1,5 @@
 id=8036
-Dark Wooden Door
+深色木门Dark Wooden Door
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

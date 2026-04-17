@@ -1,5 +1,5 @@
 id=33599
-Chemical Work Bench with Water# Mason Jar Burette
+带水的化学工作台Chemical Work Bench with Water# Mason Jar Burette
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

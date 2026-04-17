@@ -1,5 +1,5 @@
 id=3561
-Undyed Top Hat with Green Rose
+绿色玫瑰未染色礼帽Undyed Top Hat with Green Rose
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

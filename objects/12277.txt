@@ -1,5 +1,5 @@
 id=12277
-Bamboo Sandal
+竹凉鞋Bamboo Sandal
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=9130
-Raccoon Hat
+浣熊帽Raccoon Hat
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

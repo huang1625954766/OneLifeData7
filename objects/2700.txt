@@ -1,5 +1,5 @@
 id=2700
-Crude Airplane with Empty Tank
+空油箱的柴油飞机Crude Airplane with Empty Tank
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

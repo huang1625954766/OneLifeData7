@@ -1,5 +1,5 @@
 id=27663
-湿润的百合种球 Wet Bone China Pot with Lily Seed Ball# White
+湿润的百合种球Wet Bone China Pot with Lily Seed Ball# White
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

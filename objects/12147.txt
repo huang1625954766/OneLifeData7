@@ -1,5 +1,5 @@
 id=12147
-Red Silk Shirt
+红色真丝衬衫Red Silk Shirt
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

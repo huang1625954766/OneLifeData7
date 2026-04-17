@@ -1,5 +1,5 @@
 id=25013
-Two cut Banana Leaves
+两片切开的香蕉叶Two cut Banana Leaves
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

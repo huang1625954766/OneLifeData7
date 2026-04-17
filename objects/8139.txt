@@ -1,5 +1,5 @@
 id=8139
-Dry Potted Balsam Cutting
+干盆栽香脂树苗扦插Dry Potted Balsam Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

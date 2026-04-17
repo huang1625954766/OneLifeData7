@@ -1,5 +1,5 @@
 id=8541
-Cooking Chilli Con Carne
+烹饪辣肉酱汤Cooking Chilli Con Carne
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

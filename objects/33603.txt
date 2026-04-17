@@ -1,5 +1,5 @@
 id=33603
-Blue Noble Opal# 1S
+蓝色贵族蛋白石Blue Noble Opal# 1S
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

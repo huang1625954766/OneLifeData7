@@ -1,5 +1,5 @@
 id=8071
-Dry Hickory Sapling Cutting
+干山核桃树苗扦插Dry Hickory Sapling Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

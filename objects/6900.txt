@@ -1,5 +1,5 @@
 id=6900
-Pile of Short Shafts
+一堆短木棍Pile of Short Shafts
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

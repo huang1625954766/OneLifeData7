@@ -1,5 +1,5 @@
 id=30513
-Wrap Butter# No Clotting
+包裹黄油Wrap Butter# No Clotting
 containable=1
 containSize=1.000000,vertSlotRot=0.500000
 permanent=0,minPickupAge=3

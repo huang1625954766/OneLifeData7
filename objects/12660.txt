@@ -1,5 +1,5 @@
 id=12660
-Ancient Stone Wall with Copper Pipe
+有铜管的古老石墙Ancient Stone Wall with Copper Pipe
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=33710
-Southern German Breakfast Platter Table# Cutlery modTool
+德国南部早餐拼盘桌Southern German Breakfast Platter Table# Cutlery modTool
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

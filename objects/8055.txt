@@ -1,5 +1,5 @@
 id=8055
-Glasswort Cutting
+厚岸草剪枝Glasswort Cutting
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

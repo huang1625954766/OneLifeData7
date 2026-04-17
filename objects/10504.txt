@@ -1,5 +1,5 @@
 id=10504
-Pickle Crock with Garlic
+大蒜泡菜缸Pickle Crock with Garlic
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

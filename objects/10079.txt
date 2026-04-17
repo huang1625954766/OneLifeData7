@@ -1,5 +1,5 @@
 id=10079
-Table with Leavened Dough
+桌子上的发酵面团Table with Leavened Dough
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

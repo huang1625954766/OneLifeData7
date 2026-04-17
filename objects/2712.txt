@@ -1,5 +1,5 @@
 id=2712
-Domestic Lamb with Rope
+家养羊羔与绳子Domestic Lamb with Rope
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

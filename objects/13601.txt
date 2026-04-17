@@ -1,5 +1,5 @@
 id=13601
-Wheelbarrow of Cement and Gravel
+水泥和砾石的独轮车Wheelbarrow of Cement and Gravel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

@@ -1,5 +1,5 @@
 id=2544
-Bowl of Saltpeter Solution
+一碗硝酸钾溶液Bowl of Saltpeter Solution
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

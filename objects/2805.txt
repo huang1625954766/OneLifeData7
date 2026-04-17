@@ -1,5 +1,5 @@
 id=2805
-Dug Wild Pepper Plant
+被挖起的野生辣椒Dug Wild Pepper Plant
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

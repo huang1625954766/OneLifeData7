@@ -1,5 +1,5 @@
 id=2711
-Mouflon Lamb with Rope
+盘羊羊羔与绳子Mouflon Lamb with Rope
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=333
-Steel Axe Head
+钢斧刃Steel Axe Head
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

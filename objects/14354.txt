@@ -1,5 +1,5 @@
 id=14354
-Basket of Crushed Bones
+一篮碎骨头Basket of Crushed Bones
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

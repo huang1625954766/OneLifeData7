@@ -1,5 +1,5 @@
 id=32404
-Chemical Work Bench# H2SO4 KNO3
+化学实验台和浓硫酸和硝酸钾Chemical Work Bench# H2SO4 KNO3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

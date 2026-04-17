@@ -1,5 +1,5 @@
 id=2731
-Dumped Iron Filings
+倾倒的铁屑Dumped Iron Filings
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

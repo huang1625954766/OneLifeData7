@@ -1,5 +1,5 @@
 id=14713
-Blue Linen Skirt
+蓝色亚麻裙Blue Linen Skirt
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

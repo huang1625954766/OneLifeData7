@@ -1,5 +1,5 @@
 id=30820
-Steel Wheelbarrow with Wet Bricks# Use1
+湿砖钢轮手推车Steel Wheelbarrow with Wet Bricks# Use1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

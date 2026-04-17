@@ -1,5 +1,5 @@
 id=2331
-Firing Oil Drilling Rig# extended
+正在工作的石油钻机Firing Oil Drilling Rig# extended
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

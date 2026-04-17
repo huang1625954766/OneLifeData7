@@ -1,5 +1,5 @@
 id=733
-Simmering Indigo Dye
+煮沸的靛蓝染料Simmering Indigo Dye
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

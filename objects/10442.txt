@@ -1,5 +1,5 @@
 id=10442
-Blooming Cucumber Plant
+开花的黄瓜植物Blooming Cucumber Plant
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

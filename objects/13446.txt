@@ -1,5 +1,5 @@
 id=13446
-Crock of Wheat
+一缸小麦Crock of Wheat
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

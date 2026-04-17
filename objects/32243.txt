@@ -1,5 +1,5 @@
 id=32243
-Two Large Pulley with Shaft
+两个大滑轮与长木棍Two Large Pulley with Shaft
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

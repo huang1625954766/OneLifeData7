@@ -1,5 +1,5 @@
 id=6857
-Leaf Pile
+一堆叶子Leaf Pile
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

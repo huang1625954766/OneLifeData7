@@ -1,5 +1,5 @@
 id=8354
-Marked Grave with Written Paper and Chisel# origGrave &written
+用纸条和凿子标记的墓碑Marked Grave with Written Paper and Chisel# origGrave &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

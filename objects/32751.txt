@@ -1,5 +1,5 @@
 id=32751
-Pile of Mine Boes
+一堆矿物箱Pile of Mine Boes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

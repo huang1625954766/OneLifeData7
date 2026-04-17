@@ -1,5 +1,5 @@
 id=1831
-Shears with Yew Cutting
+带紫杉剪枝的剪刀Shears with Yew Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=30505
-Stack of Oiled Paper
+一堆油纸Stack of Oiled Paper
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

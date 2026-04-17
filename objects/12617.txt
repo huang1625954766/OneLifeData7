@@ -1,5 +1,5 @@
 id=12617
-Perhaps sprayed Snake Plant Sprout
+也许喷了蛇草芽Perhaps sprayed Snake Plant Sprout
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

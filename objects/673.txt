@@ -1,5 +1,5 @@
 id=673
-Empty Cistern
+空的蓄水池Empty Cistern
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=1605
-Stack of Baskets
+一堆篮子Stack of Baskets
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

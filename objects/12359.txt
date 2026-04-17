@@ -1,5 +1,5 @@
 id=12359
-Green Long Skirt on Hanger
+衣架上的绿色长裙Green Long Skirt on Hanger
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

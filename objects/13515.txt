@@ -1,5 +1,5 @@
 id=13515
-Closed Stone Kiln with Clay Bowls
+封闭式石窑粘土碗Closed Stone Kiln with Clay Bowls
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

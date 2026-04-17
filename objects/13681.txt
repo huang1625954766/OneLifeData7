@@ -1,5 +1,5 @@
 id=13681
-Ladle Cart of Molten Pig Iron
+铁水钢包车Ladle Cart of Molten Pig Iron
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=12

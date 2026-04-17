@@ -1,5 +1,5 @@
 id=2543
-Ash Niter Solution with Filter Paper
+带滤纸的灰硝溶液Ash Niter Solution with Filter Paper
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

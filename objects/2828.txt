@@ -1,5 +1,5 @@
 id=2828
-Bowl of Tomato Seeds
+一碗番茄种子Bowl of Tomato Seeds
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

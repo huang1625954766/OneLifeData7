@@ -1,5 +1,5 @@
 id=8383
-Mouflon Fur Loincloth
+盘羊毛腰带Mouflon Fur Loincloth
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

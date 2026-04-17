@@ -1,5 +1,5 @@
 id=25046
-Cut Fresh Ay Tsao Leaves
+切新鲜艾草叶Cut Fresh Ay Tsao Leaves
 containable=0
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=1,minPickupAge=3

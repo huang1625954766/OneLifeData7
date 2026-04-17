@@ -1,5 +1,5 @@
 id=12455
-Diesel Water Pump with Disconnected Water Tank and Two Pipes
+带断开水箱和两根管道的柴油水泵Diesel Water Pump with Disconnected Water Tank and Two Pipes
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

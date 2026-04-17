@@ -1,5 +1,5 @@
 id=1118
-Dried Ear of Corn with Kernel
+干燥的玉米穗与玉米粒Dried Ear of Corn with Kernel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

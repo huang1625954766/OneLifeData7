@@ -1,5 +1,5 @@
 id=27859
-剪过的盆栽郁金香 Cut Potted Tulip Flower # Yellow
+剪过的盆栽郁金香Cut Potted Tulip Flower# Yellow
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

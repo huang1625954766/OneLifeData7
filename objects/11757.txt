@@ -1,5 +1,5 @@
 id=11757
-Large Rubber Tires
+大型橡胶轮胎Large Rubber Tires
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

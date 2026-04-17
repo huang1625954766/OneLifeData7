@@ -1,5 +1,5 @@
 id=34994
-Work Bench with Diesel Piston Block and Crank Shaft
+带柴油机活塞体和曲轴的工作台Work Bench with Diesel Piston Block and Crank Shaft
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

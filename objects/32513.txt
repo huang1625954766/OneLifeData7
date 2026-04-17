@@ -1,5 +1,5 @@
 id=32513
-Hot Iron Rod
+热铁棒Hot Iron Rod
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=6776
-Cooked Crab
+熟螃蟹Cooked Crab
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=8296
-Angry Shot Bison
+愤怒的射击野牛Angry Shot Bison
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=6833
-Pile of Onions
+一堆洋葱Pile of Onions
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

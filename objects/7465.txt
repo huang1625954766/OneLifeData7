@@ -1,5 +1,5 @@
 id=7465
-Silver Ingot on Flat Rock
+银锭在扁石上Silver Ingot on Flat Rock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

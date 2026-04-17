@@ -1,5 +1,5 @@
 id=1744
-Dead Dachshund Puppy
+腊肠犬崽尸体Dead Dachshund Puppy
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

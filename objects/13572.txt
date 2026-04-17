@@ -1,5 +1,5 @@
 id=13572
-Wet Soil and Clay Mixture
+湿土和粘土混合物Wet Soil and Clay Mixture
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

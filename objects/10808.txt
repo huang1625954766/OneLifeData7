@@ -1,5 +1,5 @@
 id=10808
-Yellow Pillow
+黄色枕头Yellow Pillow
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

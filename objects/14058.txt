@@ -1,5 +1,5 @@
 id=14058
-Corner Blueprint with Bricks
+带砖的角蓝图Corner Blueprint with Bricks
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

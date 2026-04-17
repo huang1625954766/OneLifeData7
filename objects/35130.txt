@@ -1,5 +1,5 @@
 id=35130
-Firing Double Chamber Furnace with Clinker Out
+烧出熟料的双室炉Firing Double Chamber Furnace with Clinker Out
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

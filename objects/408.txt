@@ -1,5 +1,5 @@
 id=408
-Empty Clay Pit
+空的粘土坑Empty Clay Pit
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

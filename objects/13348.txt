@@ -1,5 +1,5 @@
 id=13348
-Bucket with Stakes
+带木桩的桶Bucket with Stakes
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

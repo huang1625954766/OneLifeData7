@@ -1,5 +1,5 @@
 id=11716
-Stack of Zinc Ingots
+一堆锌锭Stack of Zinc Ingots
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=6815
-Steel Pick on Poipack
+棉布背包上的钢镐Steel Pick on Poipack
 containable=1
 containSize=2.000000,vertSlotRot=-1.250000
 permanent=0,minPickupAge=3

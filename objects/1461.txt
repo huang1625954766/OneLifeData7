@@ -1,5 +1,5 @@
 id=1461
-Hungry Bison Calf
+饥饿的野牛犊Hungry Bison Calf
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

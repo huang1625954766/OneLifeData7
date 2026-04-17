@@ -1,5 +1,5 @@
 id=33954
-Rose Arrangement
+玫瑰布置Rose Arrangement
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

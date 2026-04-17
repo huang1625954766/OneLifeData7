@@ -1,5 +1,5 @@
 id=1650
-Poodle Puppy# held
+贵宾犬幼崽Poodle Puppy# held
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

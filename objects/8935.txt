@@ -1,5 +1,5 @@
 id=8935
-Pile of Steel Froe Blades
+一堆钢楔刀片Pile of Steel Froe Blades
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

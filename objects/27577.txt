@@ -1,5 +1,5 @@
 id=27577
-在重型背包上的钢镚 Adze on Heavy Backpack
+在重型背包上的钢镚Adze on Heavy Backpack
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16

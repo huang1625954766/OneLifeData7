@@ -1,5 +1,5 @@
 id=13714
-Stone Fireplace with Pile of Cut Stones
+有一堆切石的石头壁炉Stone Fireplace with Pile of Cut Stones
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

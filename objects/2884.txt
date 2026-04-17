@@ -1,5 +1,5 @@
 id=2884
-Undyed Bowler Hat
+未染色的圆顶礼帽Undyed Bowler Hat
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=2460
-Pine Tree with Male Cardinal
+松树与雄性红雀Pine Tree with Male Cardinal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=946
-Letter Stock
+字母棒Letter Stock
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

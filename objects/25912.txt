@@ -1,5 +1,5 @@
 id=25912
-死亡的四叶草 Dead Clover
+死亡的四叶草Dead Clover
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

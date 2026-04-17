@@ -1,5 +1,5 @@
 id=27897
-盆栽郁金香 Potted Tulip Flower# Purple
+盆栽郁金香Potted Tulip Flower# Purple
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

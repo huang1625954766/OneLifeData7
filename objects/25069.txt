@@ -1,5 +1,5 @@
 id=25069
-Ay Tsao Seed Bag
+艾草种子袋Ay Tsao Seed Bag
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

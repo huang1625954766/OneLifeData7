@@ -1,5 +1,5 @@
 id=8779
-Raw Rice
+生米Raw Rice
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=658
-Skinned Bear
+剥皮的熊Skinned Bear
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

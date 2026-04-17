@@ -1,5 +1,5 @@
 id=14418
-Pot of Cooled Dirty Bee Wax
+一壶冷却的脏蜂蜡Pot of Cooled Dirty Bee Wax
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

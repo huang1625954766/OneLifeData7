@@ -1,5 +1,5 @@
 id=11970
-Full Palette with Paints
+完整的调色板与油漆Full Palette with Paints
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

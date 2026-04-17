@@ -1,5 +1,5 @@
 id=293
-Firing Adobe Kiln Sealed
+密封的燃烧土坯窑Firing Adobe Kiln Sealed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

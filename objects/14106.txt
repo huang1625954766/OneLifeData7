@@ -1,5 +1,5 @@
 id=14106
-Pot of Boiling Water
+一壶开水Pot of Boiling Water
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

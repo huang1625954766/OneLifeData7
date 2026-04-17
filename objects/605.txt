@@ -1,5 +1,5 @@
 id=605
-Dead Mouflon Lamb
+盘羊羊羔尸体Dead Mouflon Lamb
 containable=1
 containSize=1,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

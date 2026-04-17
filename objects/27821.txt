@@ -1,5 +1,5 @@
 id=27821
-郁金香剪枝叶 Cut Tulip# Yellow
+郁金香剪枝叶Cut Tulip# Yellow
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

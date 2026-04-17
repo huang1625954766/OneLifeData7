@@ -1,5 +1,5 @@
 id=13384
-Cheese Wheel
+奶酪轮Cheese Wheel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

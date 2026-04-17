@@ -1,5 +1,5 @@
 id=2736
-Huge Snowball# melted
+巨型雪球Huge Snowball# melted
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

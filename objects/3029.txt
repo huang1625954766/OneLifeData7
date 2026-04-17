@@ -1,5 +1,5 @@
 id=3029
-Flash Fire
+闪火Flash Fire
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

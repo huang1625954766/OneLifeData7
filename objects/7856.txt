@@ -1,5 +1,5 @@
 id=7856
-Cooked Skewered Trout Fillets
+一串烤熟的鳟鱼片Cooked Skewered Trout Fillets
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

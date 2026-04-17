@@ -1,5 +1,5 @@
 id=9006
-Poorly Butchered Pig
+屠宰的猪Poorly Butchered Pig
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

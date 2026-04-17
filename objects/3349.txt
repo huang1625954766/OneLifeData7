@@ -1,5 +1,5 @@
 id=3349
-Blowpipe with Detached Bottle
+与玻璃吹管分离的玻璃瓶Blowpipe with Detached Bottle
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

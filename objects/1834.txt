@@ -1,5 +1,5 @@
 id=1834
-Dead Bonsai out of Bowl
+碗里的死盆景Dead Bonsai out of Bowl
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

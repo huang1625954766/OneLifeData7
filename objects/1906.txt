@@ -1,5 +1,5 @@
 id=1906
-Bucket of Yellow Paint
+一桶黄色油漆Bucket of Yellow Paint
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

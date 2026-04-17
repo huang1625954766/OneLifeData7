@@ -1,5 +1,5 @@
 id=30391
-Crock with Partial Juiced Oranges
+番红花配部分橙汁Crock with Partial Juiced Oranges
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

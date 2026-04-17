@@ -1,5 +1,5 @@
 id=2267
-Raw Rubber Belt
+生橡胶带Raw Rubber Belt
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

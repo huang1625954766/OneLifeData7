@@ -1,5 +1,5 @@
 id=2117
-Deck of Damp Cards
+一副潮湿的扑克Deck of Damp Cards
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

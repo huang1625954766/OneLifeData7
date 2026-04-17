@@ -1,5 +1,5 @@
 id=13096
-Bubinga Tree in Tree Pit
+树坑中的布宾加树Bubinga Tree in Tree Pit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=5180
-The Tree of Knowledge
+智慧树The Tree of Knowledge
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

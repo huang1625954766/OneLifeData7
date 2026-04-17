@@ -1,5 +1,5 @@
 id=2811
-Perhaps some Shrimp
+可能是虾子Perhaps some Shrimp
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

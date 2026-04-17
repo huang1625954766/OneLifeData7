@@ -1,5 +1,5 @@
 id=34116
-Perhaps sprayed Citron Sapling Cutting
+也许喷洒了柠檬树液Perhaps sprayed Citron Sapling Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

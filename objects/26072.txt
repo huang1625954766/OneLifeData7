@@ -1,5 +1,5 @@
 id=26072
-横向传动杆 Horizontal Transmission Rod
+横向传动杆Horizontal Transmission Rod
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

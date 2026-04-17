@@ -1,5 +1,5 @@
 id=1213
-Three Steel Blades
+三条钢制刀刃Three Steel Blades
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

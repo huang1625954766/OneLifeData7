@@ -1,5 +1,5 @@
 id=26156
-Steel Rod with Drawn Lines
+拉丝钢棒Steel Rod with Drawn Lines
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

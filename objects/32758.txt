@@ -1,5 +1,5 @@
 id=32758
-Steel Pick Heads and Steel Pick with Mine Box
+一箱钢镐头与钢镐Steel Pick Heads and Steel Pick with Mine Box
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

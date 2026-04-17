@@ -1,5 +1,5 @@
 id=911
-Lock and Key Blank
+锁和钥匙毛坯Lock and Key Blank
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

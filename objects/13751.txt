@@ -1,5 +1,5 @@
 id=13751
-Ingot Mold Filled with Molten Pig Iron
+充满熔融生铁的锭模Ingot Mold Filled with Molten Pig Iron
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

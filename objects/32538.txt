@@ -1,5 +1,5 @@
 id=32538
-Camping Stove with Warm Wine,Bay Leaf,Orange,Pear
+带红酒烩梨的露营炉Camping Stove with Warm Wine,Bay Leaf,Orange,Pear
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

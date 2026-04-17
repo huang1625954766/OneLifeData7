@@ -1,5 +1,5 @@
 id=14634
-Drying Rack with Hot Coal
+热煤烘干架Drying Rack with Hot Coal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

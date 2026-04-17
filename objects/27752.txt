@@ -1,5 +1,5 @@
 id=27752
-百合插花 Lily Flower Arrangement# Pink
+百合插花Lily Flower Arrangement# Pink
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

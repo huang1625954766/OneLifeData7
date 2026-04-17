@@ -1,5 +1,5 @@
 id=30921
-Steel basins of Minced Beef and Fat Pork
+牛肉碎和肥猪肉钢盆Steel basins of Minced Beef and Fat Pork
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=29075
-黑色卫衣 Black Hoodie
+黑色卫衣Black Hoodie
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

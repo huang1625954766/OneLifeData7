@@ -1,5 +1,5 @@
 id=25117
-Cast Iron Sheet Holds with Steel Pipes
+铸铁板夹钢管Cast Iron Sheet Holds with Steel Pipes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

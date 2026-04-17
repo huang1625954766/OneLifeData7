@@ -1,5 +1,5 @@
 id=955
-Letter B
+字母 BLetter B
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

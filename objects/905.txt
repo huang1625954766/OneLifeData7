@@ -1,5 +1,5 @@
 id=905
-Lock Blank with Chisel
+凿子与锁坯Lock Blank with Chisel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

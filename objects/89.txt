@@ -1,5 +1,5 @@
 id=89
-Old Grave# origGrave
+老旧的尸体Old Grave# origGrave
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=2330
-Oil Drilling Rig with Charcoal# extended
+装满木炭的石油钻机Oil Drilling Rig with Charcoal# extended
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

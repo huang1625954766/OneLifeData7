@@ -1,5 +1,5 @@
 id=30860
-Bone China Pot with Hydrangea Seed
+绣球籽骨瓷锅Bone China Pot with Hydrangea Seed
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

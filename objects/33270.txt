@@ -1,5 +1,5 @@
 id=33270
-Large Slow Fire# Perpetual
+大号慢火Large Slow Fire# Perpetual
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

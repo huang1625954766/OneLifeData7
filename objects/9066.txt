@@ -1,5 +1,5 @@
 id=9066
-Camping Stove with Over-Boiled Soup
+野营炉和烧干的汤Camping Stove with Over-Boiled Soup
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

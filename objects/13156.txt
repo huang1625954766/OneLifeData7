@@ -1,5 +1,5 @@
 id=13156
-Flowering Apple Tree with Small Cut Stones
+开花的苹果树与小切石Flowering Apple Tree with Small Cut Stones
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

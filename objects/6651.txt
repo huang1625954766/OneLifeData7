@@ -1,5 +1,5 @@
 id=6651
-Cut Sandstone
+切割砂岩Cut Sandstone
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

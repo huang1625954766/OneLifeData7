@@ -1,5 +1,5 @@
 id=587
-Butchered Sheep
+被屠宰的绵羊Butchered Sheep
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

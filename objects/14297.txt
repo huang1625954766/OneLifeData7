@@ -1,5 +1,5 @@
 id=14297
-Bicycle Trailer
+自行车拖车Bicycle Trailer
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=12

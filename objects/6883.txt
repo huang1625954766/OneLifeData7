@@ -1,5 +1,5 @@
 id=6883
-Blowpipe With Hot Glass Jar
+吹管与热玻璃瓶Blowpipe With Hot Glass Jar
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

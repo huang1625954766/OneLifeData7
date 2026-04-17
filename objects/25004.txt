@@ -1,5 +1,5 @@
 id=25004
-Wet Mushroom Field with Hyphae
+菌丝湿蘑菇地Wet Mushroom Field with Hyphae
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

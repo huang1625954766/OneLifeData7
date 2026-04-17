@@ -1,5 +1,5 @@
 id=7049
-Empty Wild Grape Vine
+空的野生葡萄藤Empty Wild Grape Vine
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

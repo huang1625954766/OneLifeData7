@@ -1,5 +1,5 @@
 id=10396
-Sealed Lemonade Bottle
+密封柠檬水瓶Sealed Lemonade Bottle
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

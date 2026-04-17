@@ -1,5 +1,5 @@
 id=14056
-North-South Brick Half Wall Blueprint
+南北砖半墙蓝图North-South Brick Half Wall Blueprint
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

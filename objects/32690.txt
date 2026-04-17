@@ -1,5 +1,5 @@
 id=32690
-Manometry Thermometry Instrument
+温压测量仪Manometry Thermometry Instrument
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

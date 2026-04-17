@@ -1,5 +1,5 @@
 id=2550
-Sulfur Trioxide Reaction
+三氧化硫反应Sulfur Trioxide Reaction
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

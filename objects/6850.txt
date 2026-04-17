@@ -1,5 +1,5 @@
 id=6850
-Pile of Eggs
+一堆鸡蛋Pile of Eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=35058
-Pile of Glass Tee Pipe
+一堆玻璃三通管Pile of Glass Tee Pipe
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

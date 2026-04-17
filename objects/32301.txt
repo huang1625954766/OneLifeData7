@@ -1,5 +1,5 @@
 id=32301
-Glass with Kinding
+细柴与玻璃Glass with Kinding
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=35067
-Anemometer Pipe Kit
+风量风压计Anemometer Pipe Kit
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

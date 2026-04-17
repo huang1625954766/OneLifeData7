@@ -1,5 +1,5 @@
 id=1146
-Mature Potato Plants
+成熟的马铃薯Mature Potato Plants
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=14065
-Blueprint with cooldown
+带冷却时间的蓝图Blueprint with cooldown
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

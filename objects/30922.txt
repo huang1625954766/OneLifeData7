@@ -1,5 +1,5 @@
 id=30922
-Steel basins of Minced Beef, Fat Pork, and Ice Cube
+牛肉碎、肥猪肉和冰块的钢盆Steel basins of Minced Beef, Fat Pork, and Ice Cube
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

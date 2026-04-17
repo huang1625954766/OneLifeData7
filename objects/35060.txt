@@ -1,5 +1,5 @@
 id=35060
-Hollow Steel Frame,Glass Tee Pipe and Three Rubber Tubes on Work Bench
+工作台上的空心钢架和玻璃三通管与三根橡胶管Hollow Steel Frame,Glass Tee Pipe and Three Rubber Tubes on Work Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

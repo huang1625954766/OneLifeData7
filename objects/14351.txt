@@ -1,5 +1,5 @@
 id=14351
-Bicycle Wheel without Rubber Tire
+不带橡胶轮胎的自行车车轮Bicycle Wheel without Rubber Tire
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

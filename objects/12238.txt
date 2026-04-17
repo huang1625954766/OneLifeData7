@@ -1,5 +1,5 @@
 id=12238
-Green Ribbon with Bow
+带蝴蝶结的绿丝带Green Ribbon with Bow
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

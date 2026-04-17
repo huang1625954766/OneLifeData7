@@ -1,5 +1,5 @@
 id=1175
-Bowl of Green Beans
+一碗豆子Bowl of Green Beans
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

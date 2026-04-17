@@ -1,5 +1,5 @@
 id=30859
-Bone China Pot with Sunflower Seed
+葵花籽骨瓷锅Bone China Pot with Sunflower Seed
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

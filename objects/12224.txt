@@ -1,5 +1,5 @@
 id=12224
-Blue Babydoll Tunic on Hanger
+衣架上的蓝色娃娃装外衣Blue Babydoll Tunic on Hanger
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

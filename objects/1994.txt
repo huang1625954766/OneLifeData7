@@ -1,5 +1,5 @@
 id=1994
-Die in Bowl
+碗中的一个骰子Die in Bowl
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=25984
-未烧制的密封石英和碳粉 Unburned Quartz and Charcoal Powder
+未烧制的密封石英和碳粉Unburned Quartz and Charcoal Powder
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

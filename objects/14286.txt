@@ -1,5 +1,5 @@
 id=14286
-Stack of Hot Steel Pipes
+一堆热钢管Stack of Hot Steel Pipes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

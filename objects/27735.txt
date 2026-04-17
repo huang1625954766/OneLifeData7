@@ -1,5 +1,5 @@
 id=27735
-被剪过的百合花丛 Cut Lily Flower Cluster# Pink
+被剪过的百合花丛Cut Lily Flower Cluster# Pink
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

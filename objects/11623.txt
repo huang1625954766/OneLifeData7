@@ -1,5 +1,5 @@
 id=11623
-Pile of Cinnabar
+一堆朱砂Pile of Cinnabar
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

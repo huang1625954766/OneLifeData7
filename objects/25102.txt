@@ -1,5 +1,5 @@
 id=25102
-Pile of Cooked Marinated Goose Eggs
+一堆熟咸鹅蛋Pile of Cooked Marinated Goose Eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

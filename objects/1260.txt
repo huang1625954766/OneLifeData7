@@ -1,5 +1,5 @@
 id=1260
-Goose Beheaded
+断头的鹅Goose Beheaded
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

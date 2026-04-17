@@ -1,5 +1,5 @@
 id=8366
-Stack of Bricks
+一堆砖Stack of Bricks
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

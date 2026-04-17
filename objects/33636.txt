@@ -1,5 +1,5 @@
 id=33636
-Basalt and Granite of Rockburst Hydrothermal Oredeposits# Level2 Hot 4.1
+岩爆热液矿床中的玄武岩和花岗岩Basalt and Granite of Rockburst Hydrothermal Oredeposits# Level2 Hot 4.1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

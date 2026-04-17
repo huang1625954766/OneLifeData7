@@ -1,5 +1,5 @@
 id=10507
-Pickle Crock with Bay Leaf
+月桂叶泡菜缸Pickle Crock with Bay Leaf
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

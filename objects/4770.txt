@@ -1,5 +1,5 @@
 id=4770
-Empty Camping Stove
+空的露营炉Empty Camping Stove
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

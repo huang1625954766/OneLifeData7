@@ -1,5 +1,5 @@
 id=1217
-Clay Crock
+粘土罐Clay Crock
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

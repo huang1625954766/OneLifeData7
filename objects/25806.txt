@@ -1,5 +1,5 @@
 id=25806
-三块半兔皮 Three Full and Two Cut Rabbit Furs
+三块半兔皮Three Full and Two Cut Rabbit Furs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

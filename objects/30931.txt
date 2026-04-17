@@ -1,5 +1,5 @@
 id=30931
-White Cooked Sausage
+白熟香肠White Cooked Sausage
 containable=1
 containSize=1.000000,vertSlotRot=1.000000
 permanent=0,minPickupAge=3

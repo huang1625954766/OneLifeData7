@@ -1,5 +1,5 @@
 id=64
-Straight Branch
+长直树枝Straight Branch
 containable=1
 containSize=2,vertSlotRot=-0.750000
 permanent=0,minPickupAge=3

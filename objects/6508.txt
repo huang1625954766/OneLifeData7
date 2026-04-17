@@ -1,5 +1,5 @@
 id=6508
-Sausage Casing
+香肠肠衣Sausage Casing
 containable=1
 containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

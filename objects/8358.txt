@@ -1,5 +1,5 @@
 id=8358
-Wet Soil and Clay Mixture in Box
+箱装湿土和粘土混合物Wet Soil and Clay Mixture in Box
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=5160
-Crown of Ivory Empire
+象牙帝国的王冠Crown of Ivory Empire
 containable=1
 containSize=1,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

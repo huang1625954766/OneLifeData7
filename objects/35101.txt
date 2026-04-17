@@ -1,5 +1,5 @@
 id=35101
-Steel Wheelbarrow with Sodium Silicates
+硅酸钠钢制独轮车Steel Wheelbarrow with Sodium Silicates
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

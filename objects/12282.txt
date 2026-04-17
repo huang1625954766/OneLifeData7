@@ -1,5 +1,5 @@
 id=12282
-Silk Outfit Base
+丝绸服装基地Silk Outfit Base
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

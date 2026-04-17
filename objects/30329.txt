@@ -1,5 +1,5 @@
 id=30329
-Two Spit mud Pipe WiTH Empty Tank
+双吐泥管擦拭空罐Two Spit mud Pipe WiTH Empty Tank
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

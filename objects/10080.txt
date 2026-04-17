@@ -1,5 +1,5 @@
 id=10080
-Table with Pizza Crust
+桌子上的披萨皮Table with Pizza Crust
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

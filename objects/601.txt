@@ -1,5 +1,5 @@
 id=601
-Fed Mouflon Lamb
+喂过的盘羊羊羔Fed Mouflon Lamb
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

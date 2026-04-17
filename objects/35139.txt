@@ -1,5 +1,5 @@
 id=35139
-一杯氢氧化钠
+一杯次氯酸钠One cup of sodium hydroxide
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

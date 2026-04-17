@@ -1,5 +1,5 @@
 id=32633
-Small Steel Sheets
+一叠钢片Small Steel Sheets
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

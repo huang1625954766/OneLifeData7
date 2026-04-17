@@ -1,5 +1,5 @@
 id=2376
-Diesel Piston Head
+柴油机活塞头Diesel Piston Head
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=15

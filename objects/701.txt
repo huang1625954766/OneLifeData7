@@ -1,5 +1,5 @@
 id=701
-Carrot Crown with Carrot
+胡萝卜王冠和胡萝卜Carrot Crown with Carrot
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

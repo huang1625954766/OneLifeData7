@@ -1,5 +1,5 @@
 id=454
-Steel Adze Head
+钢制锛头Steel Adze Head
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

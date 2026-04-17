@@ -1,5 +1,5 @@
 id=27819
-湿润的郁金香苗 Wet Tulip Spout# Yellow
+湿润的郁金香苗Wet Tulip Spout# Yellow
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

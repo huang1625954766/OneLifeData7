@@ -1,5 +1,5 @@
 id=34121
-Wet Citron Sapling Cutting
+柠檬汁湿切Wet Citron Sapling Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

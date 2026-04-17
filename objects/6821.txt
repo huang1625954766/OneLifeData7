@@ -1,5 +1,5 @@
 id=6821
-Pile of Mouflon Hides
+一堆盘羊皮Pile of Mouflon Hides
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

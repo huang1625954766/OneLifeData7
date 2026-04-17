@@ -1,5 +1,5 @@
 id=13430
-Brewery with Mash
+啤酒厂与马什Brewery with Mash
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=8147
-Wreath Base
+花环底座Wreath Base
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

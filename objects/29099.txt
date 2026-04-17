@@ -1,5 +1,5 @@
 id=29099
-波奈特 Bonnet
+波奈特Bonnet
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

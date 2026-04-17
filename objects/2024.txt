@@ -1,5 +1,5 @@
 id=2024
-Nine of Hearts
+红桃9Nine of Hearts
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

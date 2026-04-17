@@ -1,5 +1,5 @@
 id=13454
-Crock of Wheat Malt
+一罐小麦芽Crock of Wheat Malt
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=299
-Adobe Kiln with Charcoal
+有木炭的土坯窑Adobe Kiln with Charcoal
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

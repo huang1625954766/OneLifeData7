@@ -1,5 +1,5 @@
 id=1658
-German Shepherd
+德国牧羊犬German Shepherd
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

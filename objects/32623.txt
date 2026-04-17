@@ -1,5 +1,5 @@
 id=32623
-Block Mold
+钢材模具Block Mold
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

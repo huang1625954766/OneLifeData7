@@ -1,5 +1,5 @@
 id=25654
-Plate of Cheese Yolk Mooncake
+奶酪蛋黄月饼盘Plate of Cheese Yolk Mooncake
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

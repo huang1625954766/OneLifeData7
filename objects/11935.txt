@@ -1,5 +1,5 @@
 id=11935
-Blue Flag Roll
+蓝旗卷Blue Flag Roll
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

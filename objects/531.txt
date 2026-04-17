@@ -1,5 +1,5 @@
 id=531
-Mouflon
+盘羊Mouflon
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

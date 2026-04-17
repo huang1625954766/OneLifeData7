@@ -1,5 +1,5 @@
 id=31022
-Fishing Pole with SeaSnail
+海蜗牛钓鱼竿Fishing Pole with SeaSnail
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

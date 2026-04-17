@@ -1,5 +1,5 @@
 id=34447
-Gauze Curtain Arch Kit
+纱布窗帘拱套件Gauze Curtain Arch Kit
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

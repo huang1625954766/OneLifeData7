@@ -1,5 +1,5 @@
 id=13443
-Brewery with Ruined Wort
+啤酒厂的麦芽汁被破坏Brewery with Ruined Wort
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

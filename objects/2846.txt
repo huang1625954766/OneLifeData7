@@ -1,5 +1,5 @@
 id=2846
-Wet Planted Wild Onion
+湿润的野生洋葱田Wet Planted Wild Onion
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

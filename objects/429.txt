@@ -1,5 +1,5 @@
 id=429
-Dying Shot Wolf
+垂死的被射中的狼Dying Shot Wolf
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=2719
-Shears with Juniper Cutting
+带刺柏剪枝的剪刀Shears with Juniper Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

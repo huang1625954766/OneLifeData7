@@ -1,5 +1,5 @@
 id=1318
-@ Young Stone Wall
+橡胶圈损耗的油泵@ Young Stone Wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

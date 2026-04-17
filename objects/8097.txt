@@ -1,5 +1,5 @@
 id=8097
-Shears with Hickory Cutting
+带胡桃木剪枝的剪刀Shears with Hickory Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

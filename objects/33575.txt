@@ -1,5 +1,5 @@
 id=33575
-Wheeled Hand Cart with 3D Chess Projector
+带3D国际象棋投影仪的轮式手推车Wheeled Hand Cart with 3D Chess Projector
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

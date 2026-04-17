@@ -1,5 +1,5 @@
 id=14412
-Bowl of Bee Wax
+一碗蜂蜡Bowl of Bee Wax
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

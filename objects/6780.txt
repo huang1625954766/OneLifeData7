@@ -1,5 +1,5 @@
 id=6780
-Baited Fishing Pot
+带诱饵的捕捞笼Baited Fishing Pot
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=462
-Steel Adze
+钢锛子Steel Adze
 containable=1
 containSize=1.900000,vertSlotRot=-0.370000
 permanent=0,minPickupAge=3

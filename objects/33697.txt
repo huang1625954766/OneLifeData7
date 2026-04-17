@@ -1,5 +1,5 @@
 id=33697
-Wheelbarrow and Stone# Use20 Fence
+独轮车和石头Wheelbarrow and Stone# Use20 Fence
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

@@ -1,5 +1,5 @@
 id=2348
-Kerosene Wick Burner
+煤油芯燃烧器Kerosene Wick Burner
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

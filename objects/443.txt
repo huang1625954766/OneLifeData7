@@ -1,5 +1,5 @@
 id=443
-Steel Smithing Hammer Head
+钢锤头Steel Smithing Hammer Head
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

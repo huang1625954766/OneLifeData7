@@ -1,5 +1,5 @@
 id=34860
-Lion with Broken Arrow
+断箭狮子Lion with Broken Arrow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

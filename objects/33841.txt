@@ -1,5 +1,5 @@
 id=33841
-Pile of Expanded Perlite Insulation Bricks
+膨胀珍珠岩保温砖堆Pile of Expanded Perlite Insulation Bricks
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

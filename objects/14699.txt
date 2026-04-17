@@ -1,5 +1,5 @@
 id=14699
-Stack of Glass Panes
+堆栈玻璃板Stack of Glass Panes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

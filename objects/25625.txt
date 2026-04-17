@@ -1,5 +1,5 @@
 id=25625
-Bowl of Apple Original Vinegar
+一碗苹果原汁Bowl of Apple Original Vinegar
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=2315
-Oil Drilling Rig without Rope
+没有绳子的石油钻机Oil Drilling Rig without Rope
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

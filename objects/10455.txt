@@ -1,5 +1,5 @@
 id=10455
-Dry Planted Dill Seeds
+干种植莳萝种子Dry Planted Dill Seeds
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

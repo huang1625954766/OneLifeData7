@@ -1,5 +1,5 @@
 id=11581
-Stack of Bronze Ingots
+一堆青铜锭Stack of Bronze Ingots
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

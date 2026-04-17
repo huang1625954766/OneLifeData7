@@ -1,5 +1,5 @@
 id=3060
-Stakes# just dropped
+木桩Stakes# just dropped
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

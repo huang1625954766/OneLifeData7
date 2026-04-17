@@ -1,5 +1,5 @@
 id=869
-Rag Shoe
+破损的鞋Rag Shoe
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=36
-Seeding Wild Carrot
+结籽的野生胡萝卜Seeding Wild Carrot
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

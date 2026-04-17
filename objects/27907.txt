@@ -1,5 +1,5 @@
 id=27907
-空的郁金香花丛 Empty Tulip Flower Cluster with Big Seed Ball# Purple 2s
+空的郁金香花丛Empty Tulip Flower Cluster with Big Seed Ball# Purple 2s
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

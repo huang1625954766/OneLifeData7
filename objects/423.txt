@@ -1,5 +1,5 @@
 id=423
-Skinned Wolf
+剥皮的狼尸体Skinned Wolf
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

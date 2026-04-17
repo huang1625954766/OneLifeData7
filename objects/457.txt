@@ -1,5 +1,5 @@
 id=457
-Steel File Blank
+钢锉毛坯Steel File Blank
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

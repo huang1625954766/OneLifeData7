@@ -1,5 +1,5 @@
 id=14679
-Raven Flag Stand
+乌鸦旗架Raven Flag Stand
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

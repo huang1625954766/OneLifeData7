@@ -1,5 +1,5 @@
 id=1191
-Squash Sprout
+笋瓜芽Squash Sprout
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

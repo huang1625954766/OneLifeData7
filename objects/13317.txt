@@ -1,5 +1,5 @@
 id=13317
-Mossy Brick Half Wall
+长满青苔的半砖墙Mossy Brick Half Wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

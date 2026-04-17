@@ -1,5 +1,5 @@
 id=11596
-Bronze Axe Head
+青铜斧头Bronze Axe Head
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

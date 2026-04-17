@@ -1,5 +1,5 @@
 id=9013
-Bucket of Rennet
+一桶凝乳酶Bucket of Rennet
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

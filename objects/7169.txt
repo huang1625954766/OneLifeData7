@@ -1,5 +1,5 @@
 id=7169
-Tripod with Bowl
+三脚架和碗Tripod with Bowl
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

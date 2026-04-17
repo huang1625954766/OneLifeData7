@@ -1,5 +1,5 @@
 id=33596
-test Level2 hot
+测试级别2热test Level2 hot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

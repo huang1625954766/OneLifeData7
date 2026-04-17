@@ -1,5 +1,5 @@
 id=33646
-Lifting Device Damaged Hydrothermal Oredeposits# Level2 Hot 2 A
+提升装置损坏的热液矿床Lifting Device Damaged Hydrothermal Oredeposits# Level2 Hot 2 A
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

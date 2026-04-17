@@ -1,5 +1,5 @@
 id=14052
-Corner Brick Wall Blueprint
+角砖墙蓝图Corner Brick Wall Blueprint
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

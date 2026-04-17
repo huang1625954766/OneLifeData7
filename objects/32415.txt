@@ -1,5 +1,5 @@
 id=32415
-Beaker of Nitroglycerin
+一杯硝酸甘油Beaker of Nitroglycerin
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=33787
-Firing Twin Furnace Cipola with Soda# Use2
+用纯碱烧制Cipola双炉Firing Twin Furnace Cipola with Soda# Use2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

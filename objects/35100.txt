@@ -1,5 +1,5 @@
 id=35100
-Basket of Expanded Perlite
+膨胀珍珠岩篮Basket of Expanded Perlite
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

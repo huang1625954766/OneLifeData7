@@ -1,5 +1,5 @@
 id=1368
-Sterilized Knife
+葡萄剪枝Sterilized Knife
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=8

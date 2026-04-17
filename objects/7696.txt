@@ -1,5 +1,5 @@
 id=7696
-Windowed Ancient Sandstone Wall
+带窗户的古砂岩墙Windowed Ancient Sandstone Wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

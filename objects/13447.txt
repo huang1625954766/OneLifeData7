@@ -1,5 +1,5 @@
 id=13447
-Crock of Soaking Wheat
+一缸浸泡小麦Crock of Soaking Wheat
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

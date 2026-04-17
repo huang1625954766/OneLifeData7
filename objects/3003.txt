@@ -1,5 +1,5 @@
 id=3003
-Unforged Sealed Electrum Crucible
+为熔炼的琥珀金坩埚Unforged Sealed Electrum Crucible
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

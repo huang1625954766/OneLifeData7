@@ -1,5 +1,5 @@
 id=7357
-Dry Apple Sapling Cutting
+干苹果树苗扦插Dry Apple Sapling Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

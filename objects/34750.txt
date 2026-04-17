@@ -1,5 +1,5 @@
 id=34750
-Mushroom Soup Canned
+蘑菇汤罐头Mushroom Soup Canned
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3
