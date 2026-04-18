@@ -1,5 +1,5 @@
 id=27585
-带牡丹种子的岩石 Rock # with Peony Seed
+带牡丹种子的岩石Rock# with Peony Seed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

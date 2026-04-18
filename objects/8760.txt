@@ -1,5 +1,5 @@
 id=8760
-Bowl of Rice
+一碗水稻Bowl of Rice
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

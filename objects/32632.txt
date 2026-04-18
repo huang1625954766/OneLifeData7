@@ -1,5 +1,5 @@
 id=32632
-Four Steel sheets
+一堆钢板Four Steel sheets
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=8838
-Wet Planted Beets
+湿润的甜菜田Wet Planted Beets
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=34399
-Expanded Perlite Insulation
+膨胀珍珠岩绝热制品Expanded Perlite Insulation
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

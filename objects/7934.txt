@@ -1,5 +1,5 @@
 id=7934
-Painted Plastered Floor# green groundOnly
+绿色抹灰地板Painted Plastered Floor# green groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=30711
-Bamboo Net with Bass fish eggs
+鲈鱼鱼卵竹网Bamboo Net with Bass fish eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=7140
-Large Wooden Box with Shaft
+大木箱和长直木棍Large Wooden Box with Shaft
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

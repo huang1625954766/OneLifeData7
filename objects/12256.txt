@@ -1,5 +1,5 @@
 id=12256
-Babydoll Tunic on Hanger
+挂在衣架上的娃娃装外衣Babydoll Tunic on Hanger
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

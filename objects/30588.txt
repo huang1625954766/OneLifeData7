@@ -1,5 +1,5 @@
 id=30588
-Bauxite Powder of Quartz
+石英铝土矿粉Bauxite Powder of Quartz
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=30622
-Stone Furnace with Flat Rock
+平底石炉Stone Furnace with Flat Rock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

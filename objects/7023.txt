@@ -1,5 +1,5 @@
 id=7023
-Small Cut Stones
+小型切割石Small Cut Stones
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

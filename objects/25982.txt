@@ -1,5 +1,5 @@
 id=25982
-Mortar and Pestle with Charcoal Powder
+木炭粉砂浆Mortar and Pestle with Charcoal Powder
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

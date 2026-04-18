@@ -1,5 +1,5 @@
 id=2101
-Cast Fishing Pole
+铸造钓鱼竿Cast Fishing Pole
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

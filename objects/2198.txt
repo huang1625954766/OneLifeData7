@@ -1,5 +1,5 @@
 id=2198
-Bowl of Turkey Broth
+一碗火鸡肉汤Bowl of Turkey Broth
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

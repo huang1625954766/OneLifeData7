@@ -1,5 +1,5 @@
 id=1060
-White Rose Bush
+白玫瑰灌木丛White Rose Bush
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

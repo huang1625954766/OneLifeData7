@@ -1,5 +1,5 @@
 id=8986
-Skinned Beaver
+剥皮海狸Skinned Beaver
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=2677
-Landing Strip# +land
+降落跑道Landing Strip# +land
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

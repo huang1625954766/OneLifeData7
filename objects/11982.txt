@@ -1,5 +1,5 @@
 id=11982
-Small Canvas
+小画布Small Canvas
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

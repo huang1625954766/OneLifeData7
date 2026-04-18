@@ -1,5 +1,5 @@
 id=33514
-Bowl of Passivators
+一碗钝化剂Bowl of Passivators
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

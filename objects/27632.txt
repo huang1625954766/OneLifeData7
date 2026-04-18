@@ -1,5 +1,5 @@
 id=27632
-湿润的百合小种球 Wet Small Lily Seed Ball# White
+湿润的百合小种球Wet Small Lily Seed Ball# White
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

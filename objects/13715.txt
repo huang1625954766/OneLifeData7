@@ -1,5 +1,5 @@
 id=13715
-Furnace Tower and Stack of Bricks
+炉塔和砖堆Furnace Tower and Stack of Bricks
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

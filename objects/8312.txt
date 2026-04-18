@@ -1,5 +1,5 @@
 id=8312
-Perhaps Bison with Calf Hit
+也许击中带崽野牛Perhaps Bison with Calf Hit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=1807
-Wet Yew Sapling
+湿的紫杉树树苗Wet Yew Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

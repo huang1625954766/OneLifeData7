@@ -1,5 +1,5 @@
 id=27869
-郁金香剪枝在花盆旁 Cut Tulip Flower on Pot# Purple
+郁金香剪枝在花盆旁Cut Tulip Flower on Pot# Purple
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

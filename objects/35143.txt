@@ -1,5 +1,5 @@
 id=35143
-一袋石英砂# 3
+一袋萤石粉A bag of quartz sand# 3
 containable=1
 containSize=2.000000,vertSlotRot=-0.240000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=7351
-Winter Lemon Tree
+冬天的柠檬树Winter Lemon Tree
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

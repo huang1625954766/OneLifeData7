@@ -1,5 +1,5 @@
 id=27667
-盆栽百合花 Pot Lily Flower with Cut Lily Flower# White
+盆栽百合花Pot Lily Flower with Cut Lily Flower# White
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

@@ -1,5 +1,5 @@
 id=6926
-Skinned Cow
+剥皮家养牛Skinned Cow
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

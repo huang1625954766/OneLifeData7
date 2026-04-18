@@ -1,5 +1,5 @@
 id=10003
-Pile of Wild Tomato Clusters
+一堆野生番茄串Pile of Wild Tomato Clusters
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

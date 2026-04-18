@@ -1,5 +1,5 @@
 id=1179
-Bowl of Cleaned Dried Beans
+一碗干净的豆子Bowl of Cleaned Dried Beans
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

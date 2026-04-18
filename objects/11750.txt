@@ -1,5 +1,5 @@
 id=11750
-Large Vulcanized Rubber Tire
+大型硫化橡胶轮胎Large Vulcanized Rubber Tire
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

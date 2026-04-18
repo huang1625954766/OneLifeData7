@@ -1,5 +1,5 @@
 id=2266
-Vulcanized Rubber Belt
+硫化橡胶带Vulcanized Rubber Belt
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

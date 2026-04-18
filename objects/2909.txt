@@ -1,5 +1,5 @@
 id=2909
-Dye-Ready Long Dress
+准备染色的连衣裙Dye-Ready Long Dress
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

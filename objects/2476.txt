@@ -1,5 +1,5 @@
 id=2476
-Live Nosaj# endstone gone
+活化黑暗祭坛Live Nosaj# endstone gone
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

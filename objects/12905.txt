@@ -1,5 +1,5 @@
 id=12905
-Ancient Sandstone Half Wall
+古老半砂岩墙Ancient Sandstone Half Wall
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

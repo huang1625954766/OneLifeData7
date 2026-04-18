@@ -1,5 +1,5 @@
 id=10061
-Four Pieces of Cut Leather Sheet with Lasso
+四片带套索的切割皮革片Four Pieces of Cut Leather Sheet with Lasso
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

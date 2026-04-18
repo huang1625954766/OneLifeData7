@@ -1,5 +1,5 @@
 id=30679
-Bone China Clay pile
+骨瓷粘土桩Bone China Clay pile
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

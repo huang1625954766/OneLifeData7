@@ -1,5 +1,5 @@
 id=14681
-Stack of Cast Iron Ornate Panels
+一堆铸铁华丽面板Stack of Cast Iron Ornate Panels
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

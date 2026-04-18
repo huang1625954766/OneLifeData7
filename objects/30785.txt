@@ -1,5 +1,5 @@
 id=30785
-Strawberry Jam with Fish Powder in Bowl
+碗中草莓酱配鱼粉Strawberry Jam with Fish Powder in Bowl
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

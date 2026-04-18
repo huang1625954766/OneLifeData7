@@ -1,5 +1,5 @@
 id=27579
-在重型背包上的钢镐 Steel Pick on Heavy Backpack
+在重型背包上的钢镐Steel Pick on Heavy Backpack
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16

@@ -1,5 +1,5 @@
 id=8375
-Wooden Box with Removed Note# &written
+木箱与拆下的纸条Wooden Box with Removed Note# &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

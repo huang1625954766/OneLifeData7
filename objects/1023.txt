@@ -1,5 +1,5 @@
 id=1023
-Cold Bowl with Stratified Rose Seed# pink
+装着分层玫瑰种子的冷藏容器Cold Bowl with Stratified Rose Seed# pink
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

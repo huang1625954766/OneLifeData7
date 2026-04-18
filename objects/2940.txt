@@ -1,5 +1,5 @@
 id=2940
-Green Top Hat
+绿色礼帽Green Top Hat
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=4857
-Mammoth Tusk
+猛犸象牙Mammoth Tusk
 containable=1
 containSize=2,vertSlotRot=0.500000
 permanent=0,minPickupAge=3

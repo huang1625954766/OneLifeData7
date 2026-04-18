@@ -1,5 +1,5 @@
 id=350
-Female003 D
+女性003 DFemale003 D
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

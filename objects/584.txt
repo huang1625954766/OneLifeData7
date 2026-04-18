@@ -1,5 +1,5 @@
 id=584
-Wool Hat
+羊毛帽Wool Hat
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

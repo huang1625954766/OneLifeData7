@@ -1,5 +1,5 @@
 id=35025
-Flowering Pomelo Tree with Small Cut Stones
+开有小切块的柚子树Flowering Pomelo Tree with Small Cut Stones
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

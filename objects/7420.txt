@@ -1,5 +1,5 @@
 id=7420
-Big Hard Rock with Coconut
+大石块和椰子Big Hard Rock with Coconut
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

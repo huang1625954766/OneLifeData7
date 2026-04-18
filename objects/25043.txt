@@ -1,5 +1,5 @@
 id=25043
-Ay Tsao Plant with Seed
+带种子的艾草Ay Tsao Plant with Seed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

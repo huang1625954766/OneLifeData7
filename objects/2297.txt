@@ -1,5 +1,5 @@
 id=2297
-Steel Pipe
+钢管Steel Pipe
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

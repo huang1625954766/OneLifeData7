@@ -1,5 +1,5 @@
 id=463
-Steel Froe
+钢楔刀Steel Froe
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

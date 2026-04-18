@@ -1,5 +1,5 @@
 id=7605
-Stack of Shafts
+一堆长直木棍Stack of Shafts
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

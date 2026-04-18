@@ -1,5 +1,5 @@
 id=12099
-Maturing Silk Farm
+成熟的丝绸农场Maturing Silk Farm
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

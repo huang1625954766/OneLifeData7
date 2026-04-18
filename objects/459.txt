@@ -1,5 +1,5 @@
 id=459
-Steel Blade Blank
+钢刀片毛坯Steel Blade Blank
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

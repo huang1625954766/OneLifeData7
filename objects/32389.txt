@@ -1,5 +1,5 @@
 id=32389
-Red Slaked Lime of Bamboo
+一碗湿红色粉笔与竹子模具Red Slaked Lime of Bamboo
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

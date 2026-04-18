@@ -1,5 +1,5 @@
 id=3046
-Pregnant Belly
+怀孕的腹部Pregnant Belly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

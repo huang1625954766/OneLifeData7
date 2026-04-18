@@ -1,5 +1,5 @@
 id=33179
-Bauxite Powder of Quartz# NA2O
+一碗石英和氧化铝粉与氧化钠Bauxite Powder of Quartz# NA2O
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

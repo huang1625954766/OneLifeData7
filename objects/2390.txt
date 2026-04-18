@@ -1,5 +1,5 @@
 id=2390
-Wet Diesel Water Pump
+湿式柴油水泵Wet Diesel Water Pump
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

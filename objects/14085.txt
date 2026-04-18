@@ -1,5 +1,5 @@
 id=14085
-Steel Wheelbarrow with Zinc Ingots
+锌锭的钢独轮车Steel Wheelbarrow with Zinc Ingots
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

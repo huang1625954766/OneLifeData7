@@ -1,5 +1,5 @@
 id=34093
-Domestic Goose with Corn
+玉米家鹅Domestic Goose with Corn
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=13727
-Stack of Cast Iron Sheets and Cylinders
+一堆铸铁片和圆柱体Stack of Cast Iron Sheets and Cylinders
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

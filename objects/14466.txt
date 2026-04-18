@@ -1,5 +1,5 @@
 id=14466
-Scutched Flax on Table
+桌子上的碎亚麻Scutched Flax on Table
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

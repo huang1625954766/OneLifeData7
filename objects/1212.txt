@@ -1,5 +1,5 @@
 id=1212
-Red Cabbage
+红卷心菜Red Cabbage
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

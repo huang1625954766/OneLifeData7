@@ -1,5 +1,5 @@
 id=8949
-Pair of Yellow Leather Boots
+一双黄色皮靴Pair of Yellow Leather Boots
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

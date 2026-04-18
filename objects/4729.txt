@@ -1,5 +1,5 @@
 id=4729
-Ivory Goblet
+象牙高脚杯Ivory Goblet
 containable=1
 containSize=1,vertSlotRot=0.750000
 permanent=0,minPickupAge=3

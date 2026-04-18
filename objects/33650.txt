@@ -1,5 +1,5 @@
 id=33650
-Stack of Blue Noble Opals# Unpolished
+一堆蓝色贵族蛋白石Stack of Blue Noble Opals# Unpolished
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

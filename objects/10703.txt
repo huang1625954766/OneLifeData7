@@ -1,5 +1,5 @@
 id=10703
-Dead Maine Coon Cat
+死去的缅因猫Dead Maine Coon Cat
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

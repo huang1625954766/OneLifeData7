@@ -1,5 +1,5 @@
 id=26144
-一杯乙烯
+一杯乙烯One cup of ethylene
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

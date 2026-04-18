@@ -1,5 +1,5 @@
 id=12424
-Two Sheep Skins
+两张羊皮Two Sheep Skins
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

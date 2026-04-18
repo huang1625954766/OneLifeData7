@@ -1,5 +1,5 @@
 id=75
-Ember Shaft
+冒烟的木棍Ember Shaft
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

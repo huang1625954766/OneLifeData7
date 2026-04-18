@@ -1,5 +1,5 @@
 id=33610
-Southern German Breakfast Platter Table# 6 beer
+德国南部早餐拼盘桌Southern German Breakfast Platter Table# 6 beer
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

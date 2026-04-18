@@ -1,5 +1,5 @@
 id=312
-Cold Iron Bloom on Flat Rock
+扁石上的生铁坯Cold Iron Bloom on Flat Rock
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

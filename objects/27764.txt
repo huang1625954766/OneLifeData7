@@ -1,5 +1,5 @@
 id=27764
-盆栽百合花 Potted Lily Flower # Pink
+盆栽百合花Potted Lily Flower# Pink
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

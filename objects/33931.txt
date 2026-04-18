@@ -1,5 +1,5 @@
 id=33931
-Red Short Trousers with Work Belt
+红色短裤配工作腰带Red Short Trousers with Work Belt
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

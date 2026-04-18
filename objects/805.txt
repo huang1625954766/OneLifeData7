@@ -1,5 +1,5 @@
 id=805
-Wild Onion
+野洋葱Wild Onion
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

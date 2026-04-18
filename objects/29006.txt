@@ -1,5 +1,5 @@
 id=29006
-湿润的绣球花苗 Wet Hydrangea Seeding
+湿润的绣球花苗Wet Hydrangea Seeding
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

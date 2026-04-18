@@ -1,5 +1,5 @@
 id=2196
-Cooking Turkey Broth
+烹饪火鸡肉汤Cooking Turkey Broth
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

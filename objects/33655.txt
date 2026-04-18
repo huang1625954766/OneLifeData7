@@ -1,5 +1,5 @@
 id=33655
-紫藤树幼树 Small Wisteria Tree# W
+紫藤树幼树Small Wisteria Tree# W
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

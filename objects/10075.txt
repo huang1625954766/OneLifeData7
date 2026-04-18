@@ -1,5 +1,5 @@
 id=10075
-Wet Birch Sapling
+湿的白桦树苗Wet Birch Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

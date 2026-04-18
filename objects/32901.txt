@@ -1,5 +1,5 @@
 id=32901
-Separate Two Sandtone Rock
+两大块砂岩Separate Two Sandtone Rock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

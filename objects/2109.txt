@@ -1,5 +1,5 @@
 id=2109
-Wet Blank Die
+湿空白骰子Wet Blank Die
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=2165
-Bowl with Raw Rubber Ball
+带生橡胶球的碗Bowl with Raw Rubber Ball
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

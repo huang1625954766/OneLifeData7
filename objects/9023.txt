@@ -1,5 +1,5 @@
 id=9023
-Rooting Pine Tree Cutting
+生根的松树剪枝Rooting Pine Tree Cutting
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

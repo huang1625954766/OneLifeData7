@@ -1,5 +1,5 @@
 id=35046
-Pickled Flag Stand
+酸黄瓜旗帜Pickled Flag Stand
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=195
-Abandoned Rabbit Hole
+被遗弃的兔子洞Abandoned Rabbit Hole
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

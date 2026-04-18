@@ -1,5 +1,5 @@
 id=7764
-Ripe Domestic Wheat
+成熟的家养小麦Ripe Domestic Wheat
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

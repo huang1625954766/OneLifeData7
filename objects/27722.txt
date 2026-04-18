@@ -1,5 +1,5 @@
 id=27722
-干燥的百合小种球 Dry Small Lily Seed Ball# Pink
+干燥的百合小种球Dry Small Lily Seed Ball# Pink
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

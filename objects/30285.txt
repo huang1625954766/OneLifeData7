@@ -1,5 +1,5 @@
 id=30285
-Basket of White Grapes
+一篮白葡萄Basket of White Grapes
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=1142
-Wet Planted Potatoes
+湿润的马铃薯田Wet Planted Potatoes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

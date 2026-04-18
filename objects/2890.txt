@@ -1,5 +1,5 @@
 id=2890
-Skirt and Shirt
+短裙和衬衫Skirt and Shirt
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=25781
-Pile of Cactus Fruits
+仙人掌果堆Pile of Cactus Fruits
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

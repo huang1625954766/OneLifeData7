@@ -1,5 +1,5 @@
 id=33838
-Expanded Perlite Insulation Boards# 3
+膨胀珍珠岩保温板Expanded Perlite Insulation Boards# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

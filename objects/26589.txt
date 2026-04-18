@@ -1,5 +1,5 @@
 id=26589
-湿的椰子树苗 Wet Coconut Sapling
+湿的椰子树苗Wet Coconut Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=32297
-Shears with Goose Feather
+鹅毛剪Shears with Goose Feather
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

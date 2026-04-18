@@ -1,5 +1,5 @@
 id=52
-Fruiting Milkweed
+结果的乳草Fruiting Milkweed
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

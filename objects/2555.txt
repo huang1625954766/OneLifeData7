@@ -1,5 +1,5 @@
 id=2555
-Daniell Cell Anode
+丹尼尔电池阳极Daniell Cell Anode
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

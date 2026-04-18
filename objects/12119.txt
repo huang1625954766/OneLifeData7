@@ -1,5 +1,5 @@
 id=12119
-Silk Farm with Nesting Moth
+有筑巢蛾的丝绸农场Silk Farm with Nesting Moth
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

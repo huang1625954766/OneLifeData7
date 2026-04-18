@@ -1,5 +1,5 @@
 id=10034
-Domestic Bamboo
+家养竹子Domestic Bamboo
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

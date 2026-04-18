@@ -1,5 +1,5 @@
 id=8023
-Tobacco Seed Bag
+烟草种子袋Tobacco Seed Bag
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

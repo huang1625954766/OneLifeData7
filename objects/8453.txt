@@ -1,5 +1,5 @@
 id=8453
-Clay Bowl of Nails
+一碗钉子Clay Bowl of Nails
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

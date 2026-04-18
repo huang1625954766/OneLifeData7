@@ -1,5 +1,5 @@
 id=12498
-Copper Pipe with Handwheel
+带手轮铜管Copper Pipe with Handwheel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

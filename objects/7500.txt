@@ -1,5 +1,5 @@
 id=7500
-Small Arrow SW Sign
+小箭头SW标志Small Arrow SW Sign
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

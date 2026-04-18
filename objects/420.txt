@@ -1,5 +1,5 @@
 id=420
-Shot Wolf
+被射中的狼Shot Wolf
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

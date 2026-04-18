@@ -1,5 +1,5 @@
 id=7632
-Corn Seed Bag
+玉米种子袋Corn Seed Bag
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=30422
-Cooked Fat Pork of Lard residue
+猪油渣熟肥猪Cooked Fat Pork of Lard residue
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=13527
-Closed Stone Kiln with Bricks
+封闭式石窑砖Closed Stone Kiln with Bricks
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

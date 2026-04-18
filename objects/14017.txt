@@ -1,5 +1,5 @@
 id=14017
-Pan Mold Filled with Molten Cast Iron
+装有熔融铸铁的盘模Pan Mold Filled with Molten Cast Iron
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

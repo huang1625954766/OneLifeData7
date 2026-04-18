@@ -1,5 +1,5 @@
 id=11684
-Stone Block with Bronze Chisel
+带青铜凿子的石方块Stone Block with Bronze Chisel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

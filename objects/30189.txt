@@ -1,5 +1,5 @@
 id=30189
-Partial Bridge Foundation hole
+部分桥梁基础孔Partial Bridge Foundation hole
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

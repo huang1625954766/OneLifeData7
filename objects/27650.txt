@@ -1,5 +1,5 @@
 id=27650
-百合花丛和大种球 Lily Flower Cluster with Big Seed Ball# White
+百合花丛和大种球Lily Flower Cluster with Big Seed Ball# White
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

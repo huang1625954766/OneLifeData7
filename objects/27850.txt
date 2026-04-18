@@ -1,5 +1,5 @@
 id=27850
-盆栽郁金香 Potted Tulip Flower# Yellow
+盆栽郁金香Potted Tulip Flower# Yellow
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

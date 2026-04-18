@@ -1,5 +1,5 @@
 id=14632
-Rack with Kindling
+带 柴火 的架子Rack with Kindling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

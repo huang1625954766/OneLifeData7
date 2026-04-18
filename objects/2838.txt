@@ -1,5 +1,5 @@
 id=2838
-Bowl of Pepper Seeds
+一碗辣椒种子Bowl of Pepper Seeds
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

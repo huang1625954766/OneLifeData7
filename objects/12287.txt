@@ -1,5 +1,5 @@
 id=12287
-Wool Blend Top and Bottom Pieces
+羊毛混纺上衣和下衣Wool Blend Top and Bottom Pieces
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

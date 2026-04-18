@@ -1,5 +1,5 @@
 id=32679
-Bucket of Sulphur Water
+一桶富硫水Bucket of Sulphur Water
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

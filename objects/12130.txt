@@ -1,5 +1,5 @@
 id=12130
-Loom with Cut Cotton Blend Cloth
+剪棉混纺布织机Loom with Cut Cotton Blend Cloth
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

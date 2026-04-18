@@ -1,5 +1,5 @@
 id=30487
-lettuce Stack
+生菜堆lettuce Stack
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

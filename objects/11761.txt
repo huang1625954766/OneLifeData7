@@ -1,5 +1,5 @@
 id=11761
-Wheel with Tire
+带轮胎的车轮Wheel with Tire
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

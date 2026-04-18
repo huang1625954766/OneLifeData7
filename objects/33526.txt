@@ -1,5 +1,5 @@
 id=33526
-Heavy Backpack
+带手推车组件重型背包Heavy Backpack
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16

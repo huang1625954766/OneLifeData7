@@ -1,5 +1,5 @@
 id=10273
-Crock with Oranges
+罐装橙子Crock with Oranges
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

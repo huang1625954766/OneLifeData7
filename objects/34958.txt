@@ -1,5 +1,5 @@
 id=34958
-Rubber Tree# Hive
+橡胶树Rubber Tree# Hive
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

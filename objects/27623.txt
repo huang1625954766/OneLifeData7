@@ -1,5 +1,5 @@
 id=27623
-干燥的紫藤树树苗 Dry Planted Wisteria Sapling
+干燥的紫藤树树苗Dry Planted Wisteria Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

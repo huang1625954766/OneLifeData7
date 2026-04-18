@@ -1,5 +1,5 @@
 id=27809
-干燥的百合苗 Dry Lily Spout # Orange
+干燥的百合苗Dry Lily Spout# Orange
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

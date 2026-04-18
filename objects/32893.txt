@@ -1,5 +1,5 @@
 id=32893
-Stack of Elbaite
+一堆电气石Stack of Elbaite
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

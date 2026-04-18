@@ -1,5 +1,5 @@
 id=11873
-Caged Tabby Cat
+关在笼子里的虎斑猫Caged Tabby Cat
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=1385
-Attacking Rattle Snake
+正在攻击的响尾蛇Attacking Rattle Snake
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

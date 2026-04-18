@@ -1,5 +1,5 @@
 id=31073
-Pile of coconut floats
+一堆椰子浮球Pile of coconut floats
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=14697
-Hot Glass Pane
+热玻璃板Hot Glass Pane
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=34647
-Butchered Pig# Soil
+屠宰猪Butchered Pig# Soil
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

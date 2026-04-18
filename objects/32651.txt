@@ -1,5 +1,5 @@
 id=32651
-Manometry Trigger Assembly
+触压传感总成Manometry Trigger Assembly
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

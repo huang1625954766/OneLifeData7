@@ -1,5 +1,5 @@
 id=282
-Firing Adobe Kiln
+燃烧的土坯窑Firing Adobe Kiln
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

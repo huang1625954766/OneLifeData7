@@ -1,5 +1,5 @@
 id=2021
-Six of Hearts
+红桃6Six of Hearts
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

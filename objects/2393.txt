@@ -1,5 +1,5 @@
 id=2393
-Four Wheels with Tires
+带轮胎的四个轮子Four Wheels with Tires
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

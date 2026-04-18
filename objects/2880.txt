@@ -1,5 +1,5 @@
 id=2880
-Undyed Pleated Skirt
+未染色的百褶裙Undyed Pleated Skirt
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

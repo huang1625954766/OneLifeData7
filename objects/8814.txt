@@ -1,5 +1,5 @@
 id=8814
-Please Eyes
+请多多关照Please Eyes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

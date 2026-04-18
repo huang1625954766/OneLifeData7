@@ -1,5 +1,5 @@
 id=2777
-Bowl of Cooked Sugarcane Pulp
+一碗煮过的甘蔗果肉Bowl of Cooked Sugarcane Pulp
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

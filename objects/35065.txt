@@ -1,5 +1,5 @@
 id=35065
-Anemometer Pipe kit,Manometry Thermometry Instrument,Steel Ruler and Two Steel Sheets on Work Bench
+工作台上的风量风压总成和测压温度计与钢尺以及两块钢板Anemometer Pipe kit,Manometry Thermometry Instrument,Steel Ruler and Two Steel Sheets on Work Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

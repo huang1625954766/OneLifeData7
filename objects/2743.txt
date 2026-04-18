@@ -1,5 +1,5 @@
 id=2743
-Bowl of Gooseberry Seeds
+一碗醋栗种子Bowl of Gooseberry Seeds
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=10483
-Rubber Tree with Pepper Vine
+橡胶树与胡椒藤Rubber Tree with Pepper Vine
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

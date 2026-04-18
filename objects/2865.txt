@@ -1,5 +1,5 @@
 id=2865
-Corn Tortilla in Bowl
+放在碗里的玉米饼Corn Tortilla in Bowl
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

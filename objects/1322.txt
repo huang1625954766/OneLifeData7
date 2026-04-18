@@ -1,5 +1,5 @@
 id=1322
-Broken Wheelbarrow
+损坏的独轮车Broken Wheelbarrow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

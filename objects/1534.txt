@@ -1,5 +1,5 @@
 id=1534
-South Track End Stakes
+南轨道终点桩South Track End Stakes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

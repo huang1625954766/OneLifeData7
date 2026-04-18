@@ -1,5 +1,5 @@
 id=184
-Four Pieces of Cut Rabbit Fur
+四张切开的兔皮Four Pieces of Cut Rabbit Fur
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

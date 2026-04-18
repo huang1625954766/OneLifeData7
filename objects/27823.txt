@@ -1,5 +1,5 @@
 id=27823
-干燥的郁金香大种球 Dry Planted Big Tulip Seed Ball# Yellow
+干燥的郁金香大种球Dry Planted Big Tulip Seed Ball# Yellow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

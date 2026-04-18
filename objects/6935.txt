@@ -1,5 +1,5 @@
 id=6935
-Bison Bones
+野牛骨头Bison Bones
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

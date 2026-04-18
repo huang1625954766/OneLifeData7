@@ -1,5 +1,5 @@
 id=25089
-Cut Banana Leaf on Plate
+在盘子里的切香蕉叶Cut Banana Leaf on Plate
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

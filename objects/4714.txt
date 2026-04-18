@@ -1,5 +1,5 @@
 id=4714
-Tobacco Plants
+烟草植物Tobacco Plants
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

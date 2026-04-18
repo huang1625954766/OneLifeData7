@@ -1,5 +1,5 @@
 id=14068
-Basket of Clover Leaves
+一篮三叶草Basket of Clover Leaves
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

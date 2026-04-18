@@ -1,5 +1,5 @@
 id=1366
-Empty Arrow Wound
+空箭矢伤Empty Arrow Wound
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=760
-Dead Tree
+枯死的树Dead Tree
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

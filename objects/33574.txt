@@ -1,5 +1,5 @@
 id=33574
-Wheeled Hand Cart with Giant Crude Steel Tank
+带巨型粗钢储罐的轮式手推车Wheeled Hand Cart with Giant Crude Steel Tank
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

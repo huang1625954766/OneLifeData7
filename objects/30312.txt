@@ -1,5 +1,5 @@
 id=30312
-Windmill installed shaft
+风车安装轴Windmill installed shaft
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

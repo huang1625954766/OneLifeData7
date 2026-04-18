@@ -1,5 +1,5 @@
 id=731
-Simmering Dye Mordant
+煮沸的染料媒染剂Simmering Dye Mordant
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

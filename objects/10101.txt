@@ -1,5 +1,5 @@
 id=10101
-Bowl of Fish Stew
+一碗炖鱼骨汤Bowl of Fish Stew
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

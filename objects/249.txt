@@ -1,5 +1,5 @@
 id=249
-Burning Adobe Oven
+燃烧土坯烤炉Burning Adobe Oven
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

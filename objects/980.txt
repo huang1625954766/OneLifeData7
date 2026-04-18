@@ -1,5 +1,5 @@
 id=980
-Loose Big Sign
+松动的大牌子Loose Big Sign
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=2915
-Red Cloak
+玫瑰红斗篷Red Cloak
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

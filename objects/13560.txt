@@ -1,5 +1,5 @@
 id=13560
-Brick Oven
+砖炉Brick Oven
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

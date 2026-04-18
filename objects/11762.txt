@@ -1,5 +1,5 @@
 id=11762
-Two Wheels with Tires
+带轮胎的两个轮子Two Wheels with Tires
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

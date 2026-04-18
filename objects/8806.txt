@@ -1,5 +1,5 @@
 id=8806
-Eyeroll Mouth
+翻白眼嘴Eyeroll Mouth
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

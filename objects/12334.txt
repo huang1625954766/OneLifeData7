@@ -1,5 +1,5 @@
 id=12334
-Red Jacket on Hanger
+衣架上的红色夹克Red Jacket on Hanger
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

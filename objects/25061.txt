@@ -1,5 +1,5 @@
 id=25061
-Bowl of Polished Glutinous Rice with Water
+一碗清水糯米Bowl of Polished Glutinous Rice with Water
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

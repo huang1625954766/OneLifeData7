@@ -1,5 +1,5 @@
 id=488
-Long Play Phonorecord Album
+Long Play Phonorecord黑胶专辑Long Play Phonorecord Album
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

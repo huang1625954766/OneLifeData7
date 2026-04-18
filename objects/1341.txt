@@ -1,5 +1,5 @@
 id=1341
-Domestic Boar with Piglet
+家养的有崽野猪Domestic Boar with Piglet
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

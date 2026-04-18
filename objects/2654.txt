@@ -1,5 +1,5 @@
 id=2654
-Unpowered Medium Frequency AM Transmitter
+没电的中频调幅发射机Unpowered Medium Frequency AM Transmitter
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

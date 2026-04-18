@@ -1,5 +1,5 @@
 id=1313
-Bowl of Squash Seeds
+一碗笋瓜种子Bowl of Squash Seeds
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

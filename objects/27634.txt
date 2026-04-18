@@ -1,5 +1,5 @@
 id=27634
-湿润的百合苗 Wet Lily Spout# White
+湿润的百合苗Wet Lily Spout# White
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=35002
-Staked Citron Tree
+树桩柠檬树Staked Citron Tree
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=1215
-Seeding Cabbage Plant
+结种的卷心菜Seeding Cabbage Plant
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

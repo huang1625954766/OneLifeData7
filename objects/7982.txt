@@ -1,5 +1,5 @@
 id=7982
-Bucket of Plaster
+一桶石膏Bucket of Plaster
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

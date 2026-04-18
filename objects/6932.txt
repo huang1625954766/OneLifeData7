@@ -1,5 +1,5 @@
 id=6932
-Bison Skin
+野牛皮Bison Skin
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

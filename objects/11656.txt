@@ -1,5 +1,5 @@
 id=11656
-Bronze File Blank on Flat Rock
+扁平岩石上的青铜锉刀Bronze File Blank on Flat Rock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=6380
-Dye Merchant Goods
+染料商人的商品Dye Merchant Goods
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

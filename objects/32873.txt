@@ -1,5 +1,5 @@
 id=32873
-Blue Opal Mine on Rock Ore Identification Work Bench
+矿物鉴定台上的蓝蛋白石矿Blue Opal Mine on Rock Ore Identification Work Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

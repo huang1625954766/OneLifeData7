@@ -1,5 +1,5 @@
 id=30345
-Champagne Bottle with knife# Gas Pare
+带刀的香槟瓶Champagne Bottle with knife# Gas Pare
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=34588
-Tabasco Turkey Slice on Plate
+塔巴斯科火鸡片Tabasco Turkey Slice on Plate
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

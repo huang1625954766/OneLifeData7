@@ -1,5 +1,5 @@
 id=6430
-Hand Cart with Spinning Wheel
+带纺车的手推车Hand Cart with Spinning Wheel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

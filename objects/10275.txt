@@ -1,5 +1,5 @@
 id=10275
-Crock with Juiced Oranges
+罐装橙汁Crock with Juiced Oranges
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

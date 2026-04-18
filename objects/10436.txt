@@ -1,5 +1,5 @@
 id=10436
-Dry Planted Cucumber Seeds
+干种植黄瓜种子Dry Planted Cucumber Seeds
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

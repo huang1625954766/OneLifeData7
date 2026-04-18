@@ -1,5 +1,5 @@
 id=121
-Tule Reeds
+芦苇丛Tule Reeds
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

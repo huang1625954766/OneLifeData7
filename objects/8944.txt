@@ -1,5 +1,5 @@
 id=8944
-Pair of Leather Boots
+一双皮靴Pair of Leather Boots
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

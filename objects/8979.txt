@@ -1,5 +1,5 @@
 id=8979
-Shears with Forsythia Cutting
+带连翘剪枝的剪刀Shears with Forsythia Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

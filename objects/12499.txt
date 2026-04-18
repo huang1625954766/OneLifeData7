@@ -1,5 +1,5 @@
 id=12499
-Partial Fill Station with Copper Pipe and Handwheel
+带铜管和手轮的部分加油站Partial Fill Station with Copper Pipe and Handwheel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

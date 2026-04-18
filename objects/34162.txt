@@ -1,5 +1,5 @@
 id=34162
-Shears with Sweet Orange Cutting
+甜橙剪Shears with Sweet Orange Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=8081
-Dry Balsam Sapling
+干香脂树苗Dry Balsam Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

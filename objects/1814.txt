@@ -1,5 +1,5 @@
 id=1814
-Dry Young Yew Bonsai in Bowl
+在碗里的干年轻红豆杉盆景Dry Young Yew Bonsai in Bowl
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

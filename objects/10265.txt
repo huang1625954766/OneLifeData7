@@ -1,5 +1,5 @@
 id=10265
-Orange Juice Bottle
+橙汁瓶Orange Juice Bottle
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

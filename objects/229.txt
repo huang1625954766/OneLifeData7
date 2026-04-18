@@ -1,5 +1,5 @@
 id=229
-Wet Planted Wheat
+湿润的小麦田Wet Planted Wheat
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

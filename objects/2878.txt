@@ -1,5 +1,5 @@
 id=2878
-Undyed Long Skirt
+未染色的长裙Undyed Long Skirt
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=474
-Flint-tipped Bow Drill
+燧石头弓钻Flint-tipped Bow Drill
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

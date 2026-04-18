@@ -1,5 +1,5 @@
 id=840
-Stuck Bell Tower
+卡住的钟塔Stuck Bell Tower
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

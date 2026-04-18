@@ -1,5 +1,5 @@
 id=2582
-Cool Glass# just added
+冷却玻璃Cool Glass# just added
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=6921
-Stone Wall with Shelves
+（已过时）带搁架的石墙Stone Wall with Shelves
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

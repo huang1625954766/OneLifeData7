@@ -1,5 +1,5 @@
 id=34591
-Clay Crock with Onion and Kraut Board
+洋葱和蟹肉泥板Clay Crock with Onion and Kraut Board
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

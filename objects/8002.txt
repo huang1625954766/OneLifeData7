@@ -1,5 +1,5 @@
 id=8002
-Ancient Sandstone Wall with Glass Pane
+带玻璃板的古老砂岩墙Ancient Sandstone Wall with Glass Pane
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

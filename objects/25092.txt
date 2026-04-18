@@ -1,5 +1,5 @@
 id=25092
-Cut Dry Ay Tsao Leaves
+切干艾草叶Cut Dry Ay Tsao Leaves
 containable=0
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=1,minPickupAge=3

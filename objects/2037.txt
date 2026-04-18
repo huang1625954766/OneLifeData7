@@ -1,5 +1,5 @@
 id=2037
-Nine of Diamonds
+方片9Nine of Diamonds
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

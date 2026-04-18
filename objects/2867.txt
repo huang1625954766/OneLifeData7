@@ -1,5 +1,5 @@
 id=2867
-Simmering Palm Oil
+煮沸的油Simmering Palm Oil
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=623
-Dry Compost Pile
+干燥的堆肥堆Dry Compost Pile
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

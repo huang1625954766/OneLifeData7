@@ -1,5 +1,5 @@
 id=34061
-Chopped Tree With Light Firewood# small,wood Pear
+用轻木柴砍倒的树Chopped Tree With Light Firewood# small,wood Pear
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

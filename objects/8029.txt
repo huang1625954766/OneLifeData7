@@ -1,5 +1,5 @@
 id=8029
-Table with Masa Dough
+桌子上放着玉米面团Table with Masa Dough
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

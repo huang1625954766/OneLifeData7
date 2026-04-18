@@ -1,5 +1,5 @@
 id=1930
-Twenty Minute Wooden Door# Installed
+二十分钟木门Twenty Minute Wooden Door# Installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

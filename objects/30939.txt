@@ -1,5 +1,5 @@
 id=30939
-Bowl of Strawberry Seed
+一碗草莓籽Bowl of Strawberry Seed
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

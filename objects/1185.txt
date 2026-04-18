@@ -1,5 +1,5 @@
 id=1185
-Empty Wild Squash Plant
+空的野生笋瓜Empty Wild Squash Plant
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

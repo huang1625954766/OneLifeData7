@@ -1,5 +1,5 @@
 id=25405
-Paper Wings
+纸翅膀Paper Wings
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=25418
-Stone Arch with Rose Bush
+玫瑰布什石拱门Stone Arch with Rose Bush
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

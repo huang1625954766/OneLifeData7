@@ -1,5 +1,5 @@
 id=4785
-Churn Bucket
+搅拌桶Churn Bucket
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

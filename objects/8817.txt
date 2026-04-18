@@ -1,5 +1,5 @@
 id=8817
-Cow in Grass
+草丛中的牛Cow in Grass
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

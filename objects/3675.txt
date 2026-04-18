@@ -1,5 +1,5 @@
 id=3675
-Sealed Vermilion Pigment Bottle
+密封的一瓶玫瑰红染料Sealed Vermilion Pigment Bottle
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=35062
-Anemometer Pipe kit on Work Bench
+工作台上的风量风压计总成Anemometer Pipe kit on Work Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

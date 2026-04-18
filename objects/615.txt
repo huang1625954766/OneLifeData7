@@ -1,5 +1,5 @@
 id=615
-Eaten Carrot Row
+被吃过的胡萝卜田Eaten Carrot Row
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=11751
-Pile of Short Shafts with Curved Shaft
+弯轴短轴堆Pile of Short Shafts with Curved Shaft
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

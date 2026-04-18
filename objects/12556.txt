@@ -1,5 +1,5 @@
 id=12556
-Perhaps sprayed Young Yew Bonsai in Bowl
+也许在碗里喷洒了年轻的红豆杉盆景Perhaps sprayed Young Yew Bonsai in Bowl
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

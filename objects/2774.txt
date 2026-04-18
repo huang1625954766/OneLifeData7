@@ -1,5 +1,5 @@
 id=2774
-Bowl of Sugarcane Pulp
+一碗甘蔗果肉Bowl of Sugarcane Pulp
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

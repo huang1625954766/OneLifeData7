@@ -1,5 +1,5 @@
 id=34327
-Pile of Lead Cover
+铅盖堆Pile of Lead Cover
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

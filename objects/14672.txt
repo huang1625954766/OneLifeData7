@@ -1,5 +1,5 @@
 id=14672
-Marked Steel Adze
+标记钢锛Marked Steel Adze
 containable=1
 containSize=1.900000,vertSlotRot=-0.370000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=6769
-Fishing Pot with Lobster
+捕捞笼里有龙虾Fishing Pot with Lobster
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

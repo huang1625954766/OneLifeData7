@@ -1,5 +1,5 @@
 id=26594
-湿的种植棕榈仁 Wet Planted Palm Kernels
+湿的种植棕榈仁Wet Planted Palm Kernels
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

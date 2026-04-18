@@ -1,5 +1,5 @@
 id=2090
-Bound Deck of Cards
+捆起来的一副扑克Bound Deck of Cards
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

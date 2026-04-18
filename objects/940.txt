@@ -1,5 +1,5 @@
 id=940
-Cut Domestic Sapling Stick
+剪下的家栽树苗Cut Domestic Sapling Stick
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

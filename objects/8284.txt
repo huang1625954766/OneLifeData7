@@ -1,5 +1,5 @@
 id=8284
-Perhaps Bear Hit
+也许击中灰熊Perhaps Bear Hit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

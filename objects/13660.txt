@@ -1,5 +1,5 @@
 id=13660
-Pile of Seaweed
+一堆海藻Pile of Seaweed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

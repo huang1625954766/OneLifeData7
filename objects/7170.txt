@@ -1,5 +1,5 @@
 id=7170
-Tripod with Soaked Pad in Bowl
+三脚架和装有浸泡羊毛垫的碗Tripod with Soaked Pad in Bowl
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

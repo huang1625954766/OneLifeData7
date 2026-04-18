@@ -1,5 +1,5 @@
 id=32634
-Pile of Small Steel Sheets
+一堆钢片Pile of Small Steel Sheets
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=26600
-可可树剪枝 Cocoa Cutting
+可可树剪枝Cocoa Cutting
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

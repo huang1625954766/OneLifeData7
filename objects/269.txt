@@ -1,5 +1,5 @@
 id=269
-Raw Carrot Rabbit Pie
+生的胡萝卜兔肉派Raw Carrot Rabbit Pie
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

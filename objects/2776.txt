@@ -1,5 +1,5 @@
 id=2776
-Sugarcane Pulp in Simmering Water
+煮沸的甘蔗果肉Sugarcane Pulp in Simmering Water
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

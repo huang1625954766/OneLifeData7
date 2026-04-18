@@ -1,5 +1,5 @@
 id=32910
-Split Silica Rock with Chisel
+分割花岗岩与凿子Split Silica Rock with Chisel
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

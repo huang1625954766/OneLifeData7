@@ -1,5 +1,5 @@
 id=6716
-Unattached Partial Sewing Machine
+部分缝纫机头Unattached Partial Sewing Machine
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=8116
-Elf Hat with Ears
+带耳朵的精灵帽Elf Hat with Ears
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

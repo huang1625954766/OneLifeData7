@@ -1,5 +1,5 @@
 id=34954
-Dromedary with Bridle# 2
+佩戴缰绳的单峰骆驼Dromedary with Bridle# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

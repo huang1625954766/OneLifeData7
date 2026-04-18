@@ -1,5 +1,5 @@
 id=14324
-Rattle Snake Pinned Down by Shaft
+响尾蛇被轴压住Rattle Snake Pinned Down by Shaft
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

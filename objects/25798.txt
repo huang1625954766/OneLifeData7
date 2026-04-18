@@ -1,5 +1,5 @@
 id=25798
-Male063 F
+男性063 FMale063 F
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

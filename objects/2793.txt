@@ -1,5 +1,5 @@
 id=2793
-Crock of Warm Sugared Cream
+一罐温暖的加糖奶油Crock of Warm Sugared Cream
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

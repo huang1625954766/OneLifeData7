@@ -1,5 +1,5 @@
 id=8597
-Hot Flat Rock with Pancake
+热扁石和煎饼Hot Flat Rock with Pancake
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

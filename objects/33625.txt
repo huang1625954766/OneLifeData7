@@ -1,5 +1,5 @@
 id=33625
-Steel Wheelbarrow of Concrete# Use8
+混凝土钢制独轮车Steel Wheelbarrow of Concrete# Use8
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

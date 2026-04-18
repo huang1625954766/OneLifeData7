@@ -1,5 +1,5 @@
 id=34997
-Staked Pomelo Tree
+树桩柚子树Staked Pomelo Tree
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

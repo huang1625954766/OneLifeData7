@@ -1,5 +1,5 @@
 id=35003
-Staked Flowering Citron Tree
+插桩开花的香橼树Staked Flowering Citron Tree
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

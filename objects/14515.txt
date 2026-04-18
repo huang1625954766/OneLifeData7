@@ -1,5 +1,5 @@
 id=14515
-Small Pile of Short Shafts
+小堆短轴Small Pile of Short Shafts
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

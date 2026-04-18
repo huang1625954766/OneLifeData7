@@ -1,5 +1,5 @@
 id=33577
-Stack Basalt Blocks# 1S
+堆叠玄武岩块Stack Basalt Blocks# 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

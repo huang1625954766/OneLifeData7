@@ -1,5 +1,5 @@
 id=7187
-Closed Firing Stone Kiln
+密闭的燃烧石窑Closed Firing Stone Kiln
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

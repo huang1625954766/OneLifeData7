@@ -1,5 +1,5 @@
 id=10440
-Staked Cucumber Sprout
+扎黄瓜芽Staked Cucumber Sprout
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

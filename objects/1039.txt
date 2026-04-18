@@ -1,5 +1,5 @@
 id=1039
-Rose Seed# pink
+玫瑰种子Rose Seed# pink
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

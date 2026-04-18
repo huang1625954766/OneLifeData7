@@ -1,5 +1,5 @@
 id=33624
-Beaker with Glass Pieces of HNO3
+装有HNO3玻璃片的烧杯Beaker with Glass Pieces of HNO3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

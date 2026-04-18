@@ -1,5 +1,5 @@
 id=34952
-Tarry Spot with Stone
+有石头的焦油斑Tarry Spot with Stone
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

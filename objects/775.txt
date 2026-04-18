@@ -1,5 +1,5 @@
 id=775
-(outdated) Escaped Riding Horse
+（已过时）逃脱的骑马(outdated) Escaped Riding Horse
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

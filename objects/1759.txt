@@ -1,5 +1,5 @@
 id=1759
-Dying German Shepherd
+垂死的德国牧羊犬Dying German Shepherd
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

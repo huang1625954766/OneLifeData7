@@ -1,5 +1,5 @@
 id=2911
-Dye-Ready Button-down Shirt
+准备染色的衬衫Dye-Ready Button-down Shirt
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

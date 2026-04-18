@@ -1,5 +1,5 @@
 id=33576
-Wheeled Hand Cart with Big Stone Block
+带大石块的轮式手推车Wheeled Hand Cart with Big Stone Block
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

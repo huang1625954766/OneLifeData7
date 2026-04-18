@@ -1,5 +1,5 @@
 id=14318
-Pile of Polar Bear Skins
+一堆北极熊皮Pile of Polar Bear Skins
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

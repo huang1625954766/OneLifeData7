@@ -1,5 +1,5 @@
 id=9027
-Rooting Kapok Tree Cutting
+生根的木棉树剪枝Rooting Kapok Tree Cutting
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=450
-Steel File Blank on Anvil
+铁砧上的钢锉毛坯Steel File Blank on Anvil
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

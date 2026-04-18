@@ -1,5 +1,5 @@
 id=2488
-Stone block with Hole and Chisel
+带孔和凿子的石块Stone block with Hole and Chisel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

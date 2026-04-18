@@ -1,5 +1,5 @@
 id=2361
-Newcomen Lathe with Full Boiler
+装满水的纽科门蒸汽车床Newcomen Lathe with Full Boiler
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

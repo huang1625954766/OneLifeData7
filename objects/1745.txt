@@ -1,5 +1,5 @@
 id=1745
-Dead Chihuahua Puppy
+吉娃娃崽尸体Dead Chihuahua Puppy
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

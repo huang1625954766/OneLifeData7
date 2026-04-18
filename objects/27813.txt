@@ -1,5 +1,5 @@
 id=27813
-剪枝过的盆栽百合花 Cut Potted Lily Flower # Orange
+剪枝过的盆栽百合花Cut Potted Lily Flower# Orange
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

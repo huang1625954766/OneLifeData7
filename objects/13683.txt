@@ -1,5 +1,5 @@
 id=13683
-Ingot Mold Filled with Molten Steel
+充满钢水的钢锭模Ingot Mold Filled with Molten Steel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

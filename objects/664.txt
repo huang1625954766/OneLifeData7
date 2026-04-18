@@ -1,5 +1,5 @@
 id=664
-Dry Shallow Well
+干枯的浅井Dry Shallow Well
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

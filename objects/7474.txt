@@ -1,5 +1,5 @@
 id=7474
-Stack of Gold Ingots
+一堆金锭Stack of Gold Ingots
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

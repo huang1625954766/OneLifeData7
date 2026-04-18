@@ -1,5 +1,5 @@
 id=1311
-Flat Rock with Corn Tortilla# just made
+扁石上的玉米饼Flat Rock with Corn Tortilla# just made
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

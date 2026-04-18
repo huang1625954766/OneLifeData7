@@ -1,5 +1,5 @@
 id=4478
-Baked Flatbread Stack
+一堆烤扁平面包Baked Flatbread Stack
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

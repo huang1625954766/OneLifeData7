@@ -1,5 +1,5 @@
 id=33781
-Dye Merchant# Large Money Bag
+染料商人Dye Merchant# Large Money Bag
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
